@@ -310,6 +310,29 @@
         font-style: italic;
       }
 
+      .ad-thumbnail {
+        display: block;
+        width: 120px;
+        max-width: 100%;
+        border-radius: 10px;
+        border: 1px solid var(--line);
+        background: rgba(255, 252, 246, 0.88);
+      }
+
+      .meta-link {
+        width: fit-content;
+        color: var(--muted);
+        font-size: 0.8rem;
+        text-decoration: none;
+        opacity: 0.86;
+      }
+
+      .meta-link:hover,
+      .meta-link:focus-visible {
+        opacity: 1;
+        text-decoration: underline;
+      }
+
       .tag-row,
       .theme-row {
         display: flex;
@@ -438,7 +461,8 @@
         }
       }
     </style>
-  </head>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+</head>
   <body>
     <div class="shell">
       <header class="hero">
@@ -519,6 +543,25 @@
         }
 
         return "Date unavailable";
+      }
+
+      function renderThumbnail(ad, altText) {
+        const thumbnailUrl = String(ad?.thumbnail_url || "").trim();
+        if (!thumbnailUrl) {
+          return "";
+        }
+
+        return `<img class="ad-thumbnail" src="${escapeHtml(thumbnailUrl)}" alt="${escapeHtml(altText)}" loading="lazy" />`;
+      }
+
+      function renderMetaLink(ad) {
+        const libraryId = String(ad?.library_id || "").trim();
+        if (!libraryId) {
+          return "";
+        }
+
+        const url = `https://www.facebook.com/ads/library/?id=${encodeURIComponent(libraryId)}`;
+        return `<a class="meta-link" href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer">View on Meta →</a>`;
       }
 
       function renderEmpty(message, className = "empty") {
@@ -680,7 +723,9 @@
                   <span class="analysis-id">Library ID ${escapeHtml(visibleWinner.library_id || "n/a")}</span>
                 </div>
                 <div class="analysis-days">${visibleWinner.run_days ?? "?"} days</div>
+                ${renderThumbnail(visibleWinner, `${competitor.competitor} ad thumbnail`)}
                 <div class="analysis-copy ${hasCopy ? "" : "empty-copy"}">${hasCopy ? escapeHtml(copy) : "No primary copy captured."}</div>
+                ${renderMetaLink(visibleWinner)}
                 <div class="tag-row">
                   <span class="tag-chip">${escapeHtml(visibleWinner.offer_angle || "untagged")}</span>
                   <span class="tag-chip">${escapeHtml(visibleWinner.messaging_theme || "unthemed")}</span>
@@ -737,7 +782,9 @@
                             <span class="winner-id">Library ID ${escapeHtml(ad.library_id || "n/a")}</span>
                           </div>
                           <div class="days">${ad.run_days ?? "?"} days</div>
+                          ${renderThumbnail(ad, `${competitor.competitor} ad thumbnail`)}
                           <div class="copy ${hasCopy ? "" : "empty-copy"}">${hasCopy ? escapeHtml(copy) : "No primary copy captured."}</div>
+                          ${renderMetaLink(ad)}
                           <div class="winner-tags">
                             <span class="tag-chip">${escapeHtml(ad.offer_angle || "untagged")}</span>
                             <span class="tag-chip">${escapeHtml(ad.messaging_theme || "unthemed")}</span>

@@ -405,6 +405,12 @@ async function extractAds(page, competitorName, scrapedAt, scrapedDate) {
       const adCopy = sponsoredIndex >= 0 ? extractCopy(lines, sponsoredIndex) : "";
       const videoCount = card.querySelectorAll("video").length;
       const imageCount = card.querySelectorAll("img").length;
+      const thumbnailNode = card.querySelector("img[src], video[poster]");
+      const thumbnailUrl = thumbnailNode
+        ? thumbnailNode.tagName.toLowerCase() === "video"
+          ? (thumbnailNode.getAttribute("poster") || "").trim()
+          : (thumbnailNode.getAttribute("src") || "").trim()
+        : "";
 
       ads.push({
         library_id: libraryId,
@@ -413,7 +419,8 @@ async function extractAds(page, competitorName, scrapedAt, scrapedDate) {
         date_text: dateText,
         ad_copy: adCopy,
         ad_copy_text: adCopy,
-        format: videoCount > 0 ? "video" : imageCount >= 4 ? "carousel" : "image"
+        format: videoCount > 0 ? "video" : imageCount >= 4 ? "carousel" : "image",
+        thumbnail_url: thumbnailUrl
       });
 
       seenIds.add(libraryId);

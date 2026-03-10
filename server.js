@@ -197,6 +197,6 @@ app.get("/health", (_request, response) => {
   response.json({ ok: true });
 });
 
-app.listen(PORT, () => {
+app.listen(PORT, "0.0.0.0", () => {
   console.log(`ZEDE competitor dashboard running on http://localhost:${PORT}`);
 });
