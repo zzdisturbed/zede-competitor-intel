@@ -531,6 +531,42 @@
         text-transform: uppercase;
       }
 
+      .winner-score-stack {
+        position: absolute;
+        left: 12px;
+        top: 12px;
+        display: grid;
+        gap: 4px;
+        justify-items: center;
+        text-align: center;
+      }
+
+      .winner-score-badge {
+        width: 88px;
+        height: 88px;
+        border-radius: 999px;
+        display: grid;
+        place-items: center;
+        font-size: 1.7rem;
+        font-weight: 800;
+        color: #fff;
+        border: 3px solid rgba(255, 255, 255, 0.66);
+        box-shadow: 0 10px 20px rgba(26, 23, 20, 0.26);
+      }
+
+      .winner-score-label {
+        font-size: 0.66rem;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+        font-weight: 700;
+        color: var(--muted);
+      }
+
+      .winner-score-factor {
+        color: var(--muted);
+        font-size: 0.82rem;
+      }
+
       .winner-creative-body {
         display: grid;
         gap: 12px;
@@ -756,6 +792,49 @@
         }
 
         return "Date unavailable";
+      }
+
+      function toNumber(value, fallback = 0) {
+        const parsed = Number(value);
+        return Number.isFinite(parsed) ? parsed : fallback;
+      }
+
+      function getScoreColor(score) {
+        if (score >= 70) {
+          return "#20653a";
+        }
+        if (score >= 40) {
+          return "#b45309";
+        }
+        return "#6b7280";
+      }
+
+      function topScoreFactor(winner) {
+        const breakdown = winner?.breakdown || {};
+        const entries = [
+          { label: "Run-days longevity", value: toNumber(breakdown.run_days_score) },
+          { label: "Active status", value: toNumber(breakdown.active_bonus) },
+          { label: "Creative variants", value: toNumber(breakdown.variant_bonus) },
+          { label: "EU reach data", value: toNumber(breakdown.eu_reach_bonus) }
+        ].sort((left, right) => {
+          if (right.value !== left.value) {
+            return right.value - left.value;
+          }
+          return left.label.localeCompare(right.label);
+        });
+
+        const top = entries[0];
+        if (!top || top.value <= 0) {
+          return {
+            line: "Top factor: none yet",
+            tooltip: "No scoring factor contributed above zero."
+          };
+        }
+
+        return {
+          line: `Top factor: ${top.label} (+${top.value})`,
+          tooltip: entries.map((entry) => `${entry.label}: +${entry.value}`).join(" | ")
+        };
       }
 
       function renderThumbnail(ad, altText) {
@@ -1116,7 +1195,22 @@
 
       function renderWinners(payload) {
         latestWinnersPayload = payload;
-        const winners = payload.winners || [];
+        const winners = (payload.winners || [])
+          .slice()
+          .sort((left, right) => {
+            const scoreDelta = toNumber(right.score, 0) - toNumber(left.score, 0);
+            if (scoreDelta !== 0) {
+              return scoreDelta;
+            }
+
+            const rightDays = toNumber(right.run_days, -1);
+            const leftDays = toNumber(left.run_days, -1);
+            if (rightDays !== leftDays) {
+              return rightDays - leftDays;
+            }
+
+            return String(left.library_id || "").localeCompare(String(right.library_id || ""));
+          });
         if (activeTab === "winners") {
           generatedAtEl.textContent = `Winners generated ${formatTimestamp(payload.generated_at)}`;
         }
@@ -1130,10 +1224,17 @@
           .map((winner) => {
             const copy = truncate(winner.ad_copy_text || winner.ad_copy, 150);
             const hasCopy = Boolean(copy);
+            const score = Math.max(0, Math.min(100, Math.round(toNumber(winner.score, 0))));
+            const scoreColor = getScoreColor(score);
+            const topFactor = topScoreFactor(winner);
             return `
               <article class="winner-creative-card">
                 <div class="winner-creative-media">
                   ${renderWinnerImage(winner)}
+                  <div class="winner-score-stack" title="${escapeHtml(topFactor.tooltip)}">
+                    <div class="winner-score-badge" style="background:${scoreColor};">${score}</div>
+                    <div class="winner-score-label">🎯 Priority score</div>
+                  </div>
                   <div class="run-badge">${winner.run_days ?? "?"} days</div>
                 </div>
                 <div class="winner-creative-body">
@@ -1150,6 +1251,7 @@
                     ${renderMetaLink(winner)}
                     <span class="detail">${escapeHtml(formatDateRange(winner))}</span>
                   </div>
+                  <div class="winner-score-factor" title="${escapeHtml(topFactor.tooltip)}">${escapeHtml(topFactor.line)}</div>
                   ${renderWinnerAnalysis(winner)}
                 </div>
               </article>
@@ -1162,7 +1264,7 @@
             <div class="analysis-head">
               <div>
                 <h2>Proven Winners</h2>
-                <p>${winners.length} creatives with run_days of 30+ days, sorted by duration.</p>
+                <p>${winners.length} creatives with run_days of 30+ days, sorted by priority score.</p>
               </div>
             </div>
           </section>

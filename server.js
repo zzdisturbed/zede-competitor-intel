@@ -47,6 +47,39 @@ function normalizeAd(ad) {
   };
 }
 
+function toInt(value, fallback = 0) {
+  if (typeof value === "number" && Number.isFinite(value)) {
+    return Math.trunc(value);
+  }
+
+  const parsed = Number.parseInt(String(value ?? ""), 10);
+  return Number.isFinite(parsed) ? parsed : fallback;
+}
+
+function computeScore(ad) {
+  const runDays = toInt(ad.run_days, 0);
+  const variantCount = toInt(ad.variant_count, 1);
+  const status = String(ad.status || "").trim().toLowerCase();
+  const euReachText = String(ad.eu_reach_text || "").trim();
+
+  const runDaysScore = runDays >= 240 ? 40 : runDays >= 120 ? 30 : runDays >= 60 ? 20 : runDays >= 30 ? 10 : 5;
+  const activeBonus = status === "active" ? 25 : 0;
+  const variantBonus = variantCount >= 10 ? 20 : variantCount >= 5 ? 15 : variantCount >= 2 ? 8 : 0;
+  const euReachBonus = euReachText ? 15 : 0;
+  const total = runDaysScore + activeBonus + variantBonus + euReachBonus;
+  const score = Math.max(0, Math.min(100, total));
+
+  return {
+    score,
+    breakdown: {
+      run_days_score: runDaysScore,
+      active_bonus: activeBonus,
+      variant_bonus: variantBonus,
+      eu_reach_bonus: euReachBonus
+    }
+  };
+}
+
 function breakdownBy(ads, field) {
   const counts = new Map();
 
@@ -227,16 +260,17 @@ app.get("/api/winners", async (_request, response) => {
       loadLocalCreativeIds()
     ]);
 
-    response.json({
-      generated_at: new Date().toISOString(),
-      count: winners.length,
-      winners: winners.map((winner) => {
+    const scoredWinners = winners
+      .map((winner) => {
         const normalized = normalizeAd(winner);
         const analysisRecord = analysisMap.get(normalized.library_id) || null;
         const hasLocalCreative = localCreativeIds.has(normalized.library_id);
+        const { score, breakdown } = computeScore(normalized);
 
         return {
           ...normalized,
+          score,
+          breakdown,
           creative_url: hasLocalCreative
             ? `/creatives/${encodeURIComponent(normalized.library_id)}.jpg`
             : normalized.thumbnail_url || null,
@@ -249,6 +283,24 @@ app.get("/api/winners", async (_request, response) => {
             : null
         };
       })
+      .sort((left, right) => {
+        if (right.score !== left.score) {
+          return right.score - left.score;
+        }
+
+        const rightDays = right.run_days ?? -1;
+        const leftDays = left.run_days ?? -1;
+        if (rightDays !== leftDays) {
+          return rightDays - leftDays;
+        }
+
+        return (left.library_id || "").localeCompare(right.library_id || "");
+      });
+
+    response.json({
+      generated_at: new Date().toISOString(),
+      count: scoredWinners.length,
+      winners: scoredWinners
     });
   } catch (error) {
     response.status(500).json({

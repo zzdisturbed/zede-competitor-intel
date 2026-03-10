@@ -362,6 +362,95 @@ async function extractAds(page, competitorName, scrapedAt, scrapedDate) {
       return normalizeText(copyLines.join(" "));
     }
 
+    function parseVariantCount(text) {
+      const numberedMatch = text.match(/(\d[\d,]*)\s+ads\s+use\s+this\s+creative/i);
+      if (numberedMatch) {
+        const parsed = Number.parseInt(numberedMatch[1].replace(/,/g, ""), 10);
+        if (Number.isFinite(parsed) && parsed > 0) {
+          return parsed;
+        }
+      }
+
+      if (/This ad has multiple versions/i.test(text)) {
+        return 2;
+      }
+
+      return 1;
+    }
+
+    function parseCompactNumber(value) {
+      const source = String(value || "")
+        .trim()
+        .replace(/[€\s]/g, "")
+        .replace(/[^\d,.\-kmb]/gi, "");
+      if (!source) {
+        return null;
+      }
+
+      const suffixMatch = source.match(/[kmb]$/i);
+      const suffix = suffixMatch ? suffixMatch[0].toLowerCase() : null;
+      const multiplier = suffix === "k" ? 1_000 : suffix === "m" ? 1_000_000 : suffix === "b" ? 1_000_000_000 : 1;
+
+      let numericText = suffix ? source.slice(0, -1) : source;
+      if (numericText.includes(",") && numericText.includes(".")) {
+        numericText = numericText.replace(/,/g, "");
+      } else if (numericText.includes(",") && !numericText.includes(".")) {
+        const parts = numericText.split(",");
+        const decimalCandidate = parts[parts.length - 1];
+        numericText =
+          decimalCandidate.length <= 2 ? `${parts.slice(0, -1).join("")}.${decimalCandidate}` : parts.join("");
+      }
+
+      const parsed = Number.parseFloat(numericText);
+      if (!Number.isFinite(parsed)) {
+        return null;
+      }
+
+      return Math.round(parsed * multiplier);
+    }
+
+    function parseEuReachMin(euReachText) {
+      const rangeMatch = String(euReachText || "").match(
+        /([€]?\s*\d[\d.,]*\s*[kmb]?)(?:\s*[^\d-]*)[-–]\s*[€]?\s*\d[\d.,]*\s*[kmb]?/i
+      );
+      if (!rangeMatch) {
+        return null;
+      }
+
+      return parseCompactNumber(rangeMatch[1]);
+    }
+
+    function extractEuReachText(lines) {
+      const lineItems = lines.map((line) => String(line || "").trim()).filter(Boolean);
+
+      const euroRangeLine = lineItems.find((line) => /€\s*\d[\d.,]*\s*[-–]\s*€?\s*\d[\d.,]*/i.test(line));
+      if (euroRangeLine) {
+        return euroRangeLine;
+      }
+
+      const audienceIndex = lineItems.findIndex((line) => /Estimated audience size/i.test(line));
+      if (audienceIndex >= 0) {
+        const audienceLine = lineItems[audienceIndex];
+        const audienceRangeLine = lineItems[audienceIndex + 1] || "";
+        if (audienceRangeLine && /\d/.test(audienceRangeLine)) {
+          return `${audienceLine} ${audienceRangeLine}`.trim();
+        }
+        return audienceLine;
+      }
+
+      const euTransparencyIndex = lineItems.findIndex((line) => /EU transparency/i.test(line));
+      if (euTransparencyIndex >= 0) {
+        return lineItems.slice(euTransparencyIndex, euTransparencyIndex + 5).join(" | ");
+      }
+
+      const summaryIndex = lineItems.findIndex((line) => /See summary details/i.test(line));
+      if (summaryIndex >= 0) {
+        return lineItems.slice(summaryIndex, summaryIndex + 5).join(" | ");
+      }
+
+      return "";
+    }
+
     function findCard(node) {
       let current = node.parentElement;
       while (current) {
@@ -403,6 +492,9 @@ async function extractAds(page, competitorName, scrapedAt, scrapedDate) {
       const sponsoredIndex = lines.findIndex((line) => line === "Sponsored");
       const advertiser = sponsoredIndex > 0 ? lines[sponsoredIndex - 1] : name;
       const adCopy = sponsoredIndex >= 0 ? extractCopy(lines, sponsoredIndex) : "";
+      const variantCount = parseVariantCount(text);
+      const euReachText = extractEuReachText(lines);
+      const euReachMin = parseEuReachMin(euReachText);
       const videoCount = card.querySelectorAll("video").length;
       const imageCount = card.querySelectorAll("img").length;
       // Skip advertiser profile pic (small avatar) — grab first large creative image or video
@@ -434,6 +526,9 @@ async function extractAds(page, competitorName, scrapedAt, scrapedDate) {
         date_text: dateText,
         ad_copy: adCopy,
         ad_copy_text: adCopy,
+        variant_count: variantCount,
+        eu_reach_text: euReachText,
+        eu_reach_min: euReachMin,
         format: videoCount > 0 ? "video" : imageCount >= 4 ? "carousel" : "image",
         thumbnail_url: thumbnailUrl
       });
