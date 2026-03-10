@@ -1,10 +1,18 @@
 const fs = require("node:fs/promises");
 const path = require("node:path");
 const express = require("express");
+const {
+  analyzeWinnerByLibraryId,
+  collectWinnerAds,
+  creativeFilePath,
+  ensureDirectories,
+  loadAnalysisMap
+} = require("./analyzer");
 
 const PORT = Number.parseInt(process.env.PORT || "8795", 10);
 const DATA_DIR = path.join(__dirname, "data");
 const PUBLIC_DIR = path.join(__dirname, "public");
+const CREATIVES_DIR = path.join(PUBLIC_DIR, "creatives");
 
 function normalizeKey(value) {
   return value
@@ -168,7 +176,24 @@ async function loadLatestSnapshots() {
 
 const app = express();
 
+app.use(express.json());
+app.use("/creatives", express.static(CREATIVES_DIR));
 app.use(express.static(PUBLIC_DIR));
+
+async function loadLocalCreativeIds() {
+  const entries = await fs.readdir(CREATIVES_DIR, { withFileTypes: true }).catch(() => []);
+  const ids = new Set();
+
+  for (const entry of entries) {
+    if (!entry.isFile() || !entry.name.endsWith(".jpg")) {
+      continue;
+    }
+
+    ids.add(entry.name.replace(/\.jpg$/i, ""));
+  }
+
+  return ids;
+}
 
 async function sendDashboardSummary(_request, response) {
   try {
@@ -193,8 +218,86 @@ async function sendDashboardSummary(_request, response) {
 app.get("/api/summary", sendDashboardSummary);
 app.get("/api/dashboard", sendDashboardSummary);
 
+app.get("/api/winners", async (_request, response) => {
+  try {
+    await ensureDirectories();
+    const [winners, analysisMap, localCreativeIds] = await Promise.all([
+      collectWinnerAds(),
+      loadAnalysisMap(),
+      loadLocalCreativeIds()
+    ]);
+
+    response.json({
+      generated_at: new Date().toISOString(),
+      count: winners.length,
+      winners: winners.map((winner) => {
+        const normalized = normalizeAd(winner);
+        const analysisRecord = analysisMap.get(normalized.library_id) || null;
+        const hasLocalCreative = localCreativeIds.has(normalized.library_id);
+
+        return {
+          ...normalized,
+          creative_url: hasLocalCreative
+            ? `/creatives/${encodeURIComponent(normalized.library_id)}.jpg`
+            : normalized.thumbnail_url || null,
+          analysis: analysisRecord ? analysisRecord.analysis : null,
+          analysis_meta: analysisRecord
+            ? {
+                analyzed_at: analysisRecord.analyzed_at,
+                model: analysisRecord.model
+              }
+            : null
+        };
+      })
+    });
+  } catch (error) {
+    response.status(500).json({
+      error: "Unable to load winner ads",
+      details: error.message
+    });
+  }
+});
+
+app.post("/api/analyze/:library_id", async (request, response) => {
+  const libraryId = String(request.params.library_id || "").trim();
+  if (!libraryId) {
+    response.status(400).json({ error: "library_id is required" });
+    return;
+  }
+
+  try {
+    const force = request.query.force === "1" || request.query.force === "true";
+    const record = await analyzeWinnerByLibraryId(libraryId, { force });
+    const localCreativeExists = await fs
+      .access(creativeFilePath(libraryId))
+      .then(() => true)
+      .catch(() => false);
+
+    response.json({
+      ok: true,
+      library_id: libraryId,
+      creative_url: localCreativeExists ? `/creatives/${encodeURIComponent(libraryId)}.jpg` : null,
+      analysis: record.analysis,
+      analysis_meta: {
+        analyzed_at: record.analyzed_at,
+        model: record.model
+      }
+    });
+  } catch (error) {
+    const statusCode = /not found/i.test(error.message) ? 404 : 500;
+    response.status(statusCode).json({
+      error: "Unable to analyze ad creative",
+      details: error.message
+    });
+  }
+});
+
 app.get("/health", (_request, response) => {
   response.json({ ok: true });
+});
+
+ensureDirectories().catch((error) => {
+  console.warn(`Failed to ensure analysis directories: ${error.message}`);
 });
 
 app.listen(PORT, "0.0.0.0", () => {

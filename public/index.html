@@ -108,6 +108,34 @@
         justify-content: space-between;
       }
 
+      .tab-bar {
+        display: inline-flex;
+        gap: 10px;
+        margin-top: 18px;
+        padding: 8px;
+        border: 1px solid var(--line);
+        border-radius: var(--radius-sm);
+        background: rgba(255, 252, 246, 0.66);
+        backdrop-filter: blur(16px);
+      }
+
+      .tab-button {
+        border: 1px solid transparent;
+        background: transparent;
+        color: var(--muted);
+        padding: 10px 14px;
+      }
+
+      .tab-button.active {
+        background: var(--ink);
+        color: #fffaf1;
+      }
+
+      .tab-button:hover,
+      .tab-button:focus-visible {
+        opacity: 1;
+      }
+
       .meta {
         color: var(--muted);
         font-size: 0.92rem;
@@ -136,10 +164,19 @@
         outline-offset: 3px;
       }
 
-      main {
+      .tab-panels {
         display: grid;
         gap: 18px;
         margin-top: 24px;
+      }
+
+      .tab-panel {
+        display: grid;
+        gap: 18px;
+      }
+
+      .tab-panel[hidden] {
+        display: none;
       }
 
       .empty,
@@ -442,6 +479,164 @@
         gap: 8px;
       }
 
+      .winners-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+        gap: 14px;
+      }
+
+      .winner-creative-card {
+        display: grid;
+        gap: 14px;
+        border: 1px solid var(--line);
+        border-radius: var(--radius-lg);
+        background: var(--paper);
+        box-shadow: var(--shadow);
+        overflow: hidden;
+      }
+
+      .winner-creative-media {
+        position: relative;
+        border-bottom: 1px solid var(--line);
+      }
+
+      .winner-image {
+        display: block;
+        width: 100%;
+        height: 240px;
+        object-fit: cover;
+        background: rgba(255, 252, 246, 0.92);
+      }
+
+      .winner-image-placeholder {
+        display: grid;
+        place-items: center;
+        width: 100%;
+        height: 240px;
+        color: var(--muted);
+        background: rgba(255, 252, 246, 0.92);
+      }
+
+      .run-badge {
+        position: absolute;
+        right: 12px;
+        bottom: 12px;
+        padding: 8px 10px;
+        border-radius: var(--radius-sm);
+        background: rgba(26, 23, 20, 0.88);
+        color: #fffaf1;
+        font-size: 0.78rem;
+        font-weight: 700;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+      }
+
+      .winner-creative-body {
+        display: grid;
+        gap: 12px;
+        padding: 16px 16px 18px;
+      }
+
+      .winner-creative-head {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: baseline;
+      }
+
+      .winner-creative-head h3 {
+        margin: 0;
+        font-size: 1.08rem;
+      }
+
+      .winner-library-id {
+        color: var(--muted);
+        font-size: 0.8rem;
+      }
+
+      .winner-copy {
+        color: var(--muted);
+        line-height: 1.55;
+      }
+
+      .winner-meta-row {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        gap: 8px;
+        align-items: center;
+      }
+
+      .winner-analysis {
+        border: 1px solid var(--line);
+        border-radius: var(--radius-md);
+        background: rgba(255, 252, 246, 0.72);
+        padding: 12px;
+      }
+
+      .winner-analysis summary {
+        cursor: pointer;
+        font-weight: 700;
+      }
+
+      .winner-analysis summary:focus-visible {
+        outline: 3px solid rgba(32, 101, 58, 0.28);
+        outline-offset: 3px;
+        border-radius: 4px;
+      }
+
+      .winner-analysis-grid {
+        margin-top: 10px;
+        display: grid;
+        gap: 10px;
+      }
+
+      .winner-analysis-item h4 {
+        margin: 0;
+        font-size: 0.86rem;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        color: var(--muted);
+      }
+
+      .winner-analysis-item p {
+        margin: 6px 0 0;
+        line-height: 1.45;
+      }
+
+      .zede-adaptation {
+        margin-top: 10px;
+        padding: 12px;
+        border-radius: 12px;
+        border: 1px solid rgba(32, 101, 58, 0.22);
+        background: rgba(32, 101, 58, 0.1);
+      }
+
+      .zede-adaptation strong {
+        display: block;
+        margin-bottom: 4px;
+        color: var(--green);
+      }
+
+      .analysis-pending {
+        margin-top: 10px;
+        display: grid;
+        gap: 8px;
+      }
+
+      .analyze-button {
+        width: fit-content;
+        padding: 8px 12px;
+        font-size: 0.86rem;
+      }
+
+      .analysis-error {
+        margin: 0;
+        font-size: 0.82rem;
+        color: #7c2616;
+      }
+
       @media (max-width: 720px) {
         .shell {
           width: min(100% - 20px, 1240px);
@@ -451,10 +646,11 @@
         .hero,
         .filter-panel,
         .competitor-top,
-        .winner-list {
-          padding-left: 18px;
-          padding-right: 18px;
-        }
+          .winner-list,
+          .winners-grid {
+            padding-left: 18px;
+            padding-right: 18px;
+          }
 
         .winner-list {
           padding-bottom: 18px;
@@ -479,18 +675,35 @@
         </div>
       </header>
 
-      <main id="app" aria-live="polite"></main>
+      <div class="tab-bar" role="tablist" aria-label="Dashboard views">
+        <button class="tab-button active" type="button" role="tab" aria-selected="true" data-tab="monitor">
+          Monitor
+        </button>
+        <button class="tab-button" type="button" role="tab" aria-selected="false" data-tab="winners">
+          Winners
+        </button>
+      </div>
+
+      <main class="tab-panels" aria-live="polite">
+        <section id="monitorTab" class="tab-panel"></section>
+        <section id="winnersTab" class="tab-panel" hidden></section>
+      </main>
     </div>
 
     <script>
       const generatedAtEl = document.getElementById("generatedAt");
-      const appEl = document.getElementById("app");
+      const monitorEl = document.getElementById("monitorTab");
+      const winnersEl = document.getElementById("winnersTab");
       const refreshButton = document.getElementById("refreshButton");
+      const tabButtons = [...document.querySelectorAll(".tab-button[data-tab]")];
       const filterState = {
         offerAngle: "all",
         messagingTheme: "all"
       };
       let latestPayload = null;
+      let latestWinnersPayload = null;
+      let activeTab = "monitor";
+      let winnersLoading = false;
 
       function truncate(value, limit = 100) {
         if (!value) {
@@ -564,8 +777,8 @@
         return `<a class="meta-link" href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer">View on Meta →</a>`;
       }
 
-      function renderEmpty(message, className = "empty") {
-        appEl.innerHTML = `<section class="${className}">${message}</section>`;
+      function renderEmpty(targetEl, message, className = "empty") {
+        targetEl.innerHTML = `<section class="${className}">${message}</section>`;
       }
 
       function themeOptions(competitors) {
@@ -751,10 +964,13 @@
       function renderSummary(payload) {
         latestPayload = payload;
         const competitors = payload.competitors || [];
-        generatedAtEl.textContent = `Summary generated ${formatTimestamp(payload.generated_at)}`;
+        if (activeTab === "monitor") {
+          generatedAtEl.textContent = `Summary generated ${formatTimestamp(payload.generated_at)}`;
+        }
 
         if (competitors.length === 0) {
           renderEmpty(
+            monitorEl,
             "No scrape data found yet. Run <code>npm run scrape</code>, then refresh this dashboard."
           );
           return;
@@ -844,12 +1060,191 @@
           })
           .join("");
 
-        appEl.innerHTML = `${renderFilterPanel(competitors)}${renderAnalysisSection(competitors)}${competitorMarkup}`;
+        monitorEl.innerHTML = `${renderFilterPanel(competitors)}${renderAnalysisSection(competitors)}${competitorMarkup}`;
         bindFilters();
       }
 
+      function renderWinnerImage(winner) {
+        const imageUrl = String(winner?.creative_url || winner?.thumbnail_url || "").trim();
+        if (!imageUrl) {
+          return `<div class="winner-image-placeholder">Creative unavailable</div>`;
+        }
+
+        return `<img class="winner-image" src="${escapeHtml(imageUrl)}" alt="${escapeHtml(winner.competitor || "Competitor")} creative" loading="lazy" />`;
+      }
+
+      function renderWinnerAnalysis(winner) {
+        const analysis = winner.analysis;
+        if (!analysis) {
+          return `
+            <details class="winner-analysis">
+              <summary>AI Analysis</summary>
+              <div class="analysis-pending">
+                <p class="detail">No analysis generated yet for this creative.</p>
+                <button class="analyze-button" type="button" data-library-id="${escapeHtml(winner.library_id)}">
+                  Analyze with AI
+                </button>
+              </div>
+            </details>
+          `;
+        }
+
+        return `
+          <details class="winner-analysis">
+            <summary>AI Analysis</summary>
+            <div class="winner-analysis-grid">
+              <div class="winner-analysis-item">
+                <h4>Visual Hook</h4>
+                <p>${escapeHtml(analysis.visual_hook || "n/a")}</p>
+              </div>
+              <div class="winner-analysis-item">
+                <h4>Core Message</h4>
+                <p>${escapeHtml(analysis.core_message || "n/a")}</p>
+              </div>
+              <div class="winner-analysis-item">
+                <h4>Why It Worked</h4>
+                <p>${escapeHtml(analysis.why_it_worked || "n/a")}</p>
+              </div>
+            </div>
+            <div class="zede-adaptation">
+              <strong>ZEDE Adaptation</strong>
+              <div>${escapeHtml(analysis.zede_adaptation || "n/a")}</div>
+            </div>
+          </details>
+        `;
+      }
+
+      function renderWinners(payload) {
+        latestWinnersPayload = payload;
+        const winners = payload.winners || [];
+        if (activeTab === "winners") {
+          generatedAtEl.textContent = `Winners generated ${formatTimestamp(payload.generated_at)}`;
+        }
+
+        if (winners.length === 0) {
+          renderEmpty(winnersEl, "No winner creatives available yet (run_days >= 30).");
+          return;
+        }
+
+        const cards = winners
+          .map((winner) => {
+            const copy = truncate(winner.ad_copy_text || winner.ad_copy, 150);
+            const hasCopy = Boolean(copy);
+            return `
+              <article class="winner-creative-card">
+                <div class="winner-creative-media">
+                  ${renderWinnerImage(winner)}
+                  <div class="run-badge">${winner.run_days ?? "?"} days</div>
+                </div>
+                <div class="winner-creative-body">
+                  <div class="winner-creative-head">
+                    <h3>${escapeHtml(winner.competitor || "Unknown competitor")}</h3>
+                    <span class="winner-library-id">Library ID ${escapeHtml(winner.library_id || "n/a")}</span>
+                  </div>
+                  <div class="winner-copy ${hasCopy ? "" : "empty-copy"}">${hasCopy ? escapeHtml(copy) : "No primary copy captured."}</div>
+                  <div class="winner-tags">
+                    <span class="tag-chip">${escapeHtml(winner.offer_angle || "untagged angle")}</span>
+                    <span class="tag-chip">${escapeHtml(winner.messaging_theme || "unthemed message")}</span>
+                  </div>
+                  <div class="winner-meta-row">
+                    ${renderMetaLink(winner)}
+                    <span class="detail">${escapeHtml(formatDateRange(winner))}</span>
+                  </div>
+                  ${renderWinnerAnalysis(winner)}
+                </div>
+              </article>
+            `;
+          })
+          .join("");
+
+        winnersEl.innerHTML = `
+          <section class="competitor-card filter-panel">
+            <div class="analysis-head">
+              <div>
+                <h2>Proven Winners</h2>
+                <p>${winners.length} creatives with run_days of 30+ days, sorted by duration.</p>
+              </div>
+            </div>
+          </section>
+          <section class="winners-grid">${cards}</section>
+        `;
+        bindWinnerAnalyzeButtons();
+      }
+
+      function bindWinnerAnalyzeButtons() {
+        const buttons = winnersEl.querySelectorAll("button[data-library-id]");
+        for (const button of buttons) {
+          button.addEventListener("click", async (event) => {
+            const target = event.currentTarget;
+            const libraryId = target.getAttribute("data-library-id");
+            if (!libraryId) {
+              return;
+            }
+
+            target.disabled = true;
+            const previousLabel = target.textContent;
+            target.textContent = "Analyzing…";
+
+            try {
+              const response = await fetch(`/api/analyze/${encodeURIComponent(libraryId)}`, {
+                method: "POST"
+              });
+              if (!response.ok) {
+                throw new Error(`Request failed with ${response.status}`);
+              }
+
+              await response.json();
+              await loadWinners({ force: true });
+            } catch (error) {
+              target.disabled = false;
+              target.textContent = previousLabel;
+
+              const container = target.closest(".analysis-pending");
+              if (container) {
+                let errorEl = container.querySelector(".analysis-error");
+                if (!errorEl) {
+                  errorEl = document.createElement("p");
+                  errorEl.className = "analysis-error";
+                  container.appendChild(errorEl);
+                }
+                errorEl.textContent = `Analysis failed: ${error.message}`;
+              }
+            }
+          });
+        }
+      }
+
+      function setActiveTab(tabName) {
+        activeTab = tabName === "winners" ? "winners" : "monitor";
+
+        for (const button of tabButtons) {
+          const isActive = button.getAttribute("data-tab") === activeTab;
+          button.classList.toggle("active", isActive);
+          button.setAttribute("aria-selected", String(isActive));
+        }
+
+        monitorEl.hidden = activeTab !== "monitor";
+        winnersEl.hidden = activeTab !== "winners";
+
+        if (activeTab === "monitor") {
+          generatedAtEl.textContent = latestPayload
+            ? `Summary generated ${formatTimestamp(latestPayload.generated_at)}`
+            : "Loading latest scrape summary…";
+          return;
+        }
+
+        if (latestWinnersPayload) {
+          generatedAtEl.textContent = `Winners generated ${formatTimestamp(latestWinnersPayload.generated_at)}`;
+          return;
+        }
+
+        loadWinners();
+      }
+
       async function loadSummary() {
-        generatedAtEl.textContent = "Loading latest scrape summary…";
+        if (activeTab === "monitor") {
+          generatedAtEl.textContent = "Loading latest scrape summary…";
+        }
 
         try {
           const response = await fetch("/api/summary", { cache: "no-store" });
@@ -860,12 +1255,59 @@
           const payload = await response.json();
           renderSummary(payload);
         } catch (error) {
-          generatedAtEl.textContent = "Summary unavailable";
-          renderEmpty(`Unable to load dashboard data. ${error.message}`, "error");
+          if (activeTab === "monitor") {
+            generatedAtEl.textContent = "Summary unavailable";
+          }
+          renderEmpty(monitorEl, `Unable to load dashboard data. ${error.message}`, "error");
         }
       }
 
-      refreshButton.addEventListener("click", loadSummary);
+      async function loadWinners(options = {}) {
+        if (winnersLoading) {
+          return;
+        }
+        winnersLoading = true;
+
+        if (activeTab === "winners") {
+          generatedAtEl.textContent = "Loading winner analyses…";
+        }
+        renderEmpty(winnersEl, "Loading winner creatives…");
+
+        try {
+          const response = await fetch("/api/winners", {
+            cache: options.force ? "reload" : "no-store"
+          });
+          if (!response.ok) {
+            throw new Error(`Request failed with ${response.status}`);
+          }
+
+          const payload = await response.json();
+          renderWinners(payload);
+        } catch (error) {
+          if (activeTab === "winners") {
+            generatedAtEl.textContent = "Winners unavailable";
+          }
+          renderEmpty(winnersEl, `Unable to load winner ads. ${error.message}`, "error");
+        } finally {
+          winnersLoading = false;
+        }
+      }
+
+      for (const button of tabButtons) {
+        button.addEventListener("click", () => {
+          setActiveTab(button.getAttribute("data-tab"));
+        });
+      }
+
+      refreshButton.addEventListener("click", () => {
+        if (activeTab === "winners") {
+          loadWinners({ force: true });
+          return;
+        }
+        loadSummary();
+      });
+
+      setActiveTab("monitor");
       loadSummary();
     </script>
   </body>
