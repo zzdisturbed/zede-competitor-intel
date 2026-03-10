@@ -3,7 +3,7 @@
   "page_id": "88944535935",
   "country": "FR",
   "source_url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=FR&view_all_page_id=88944535935",
-  "scraped_at": "2026-03-10T10:56:36.608Z",
+  "scraped_at": "2026-03-10T13:02:50.783Z",
   "ad_count": 60,
   "total_ads": 60,
   "ads": [
@@ -15,13 +15,14 @@
       "ad_copy": "Archives jusqu’à -50%.",
       "ad_copy_text": "Archives jusqu’à -50%.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/641359837_966501759374477_7344848639064571904_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GQS0dT38f0cQ7kNvwGupyJT&_nc_oc=Adl77NBp2U1gOz1urNWX85-FagpAuHUEN0OhClN3hQMZBo68dMOYnOp4dhIlqXkC_CAk_5JCCtiJ7opJ8in2gn5W&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_AfzdFcAoWr6sl74BpsPE2m9HTdD-0q8f9FEcu0PtHxW4jQ&oe=69B5EF2F",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2026-02-05",
       "end_date": "2026-03-04",
       "run_days": 28,
       "offer_angle": "discount",
-      "messaging_theme": "seasonal discount"
+      "messaging_theme": "seasonal sale"
     },
     {
       "library_id": "1511018196719899",
@@ -31,13 +32,14 @@
       "ad_copy": "Nouvelle saison, nouveaux essentiels. La collection Automne/Hiver t’attend.",
       "ad_copy_text": "Nouvelle saison, nouveaux essentiels. La collection Automne/Hiver t’attend.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/558330862_2350531258750058_7749381088661464827_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FZSb16GxXjkQ7kNvwGTGo9S&_nc_oc=AdmgNREF2Lc6EWIeGz9g8JVEoNW9n_6B12q7Gr0aczLeo-4sAEbwVA0hdeD3Bi8aKKF0HcoADSRG4jArMOEA3cn6&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_AfwVnImnCPsNvoioVza5ITKDQFXtdJPBWULg7-yUGABfCA&oe=69B5DD8C",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-10-08",
       "end_date": "2026-01-07",
       "run_days": 92,
       "offer_angle": "aspirational",
-      "messaging_theme": "new season essentials"
+      "messaging_theme": "new essentials"
     },
     {
       "library_id": "1079250473743708",
@@ -47,13 +49,14 @@
       "ad_copy": "Les ARCHIVES FAGUO.",
       "ad_copy_text": "Les ARCHIVES FAGUO.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/520484533_1529374098471832_4006096027426220342_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dunu_LeHjRgQ7kNvwEDBlCs&_nc_oc=Adk0tnehrUc3H6RExYoAWA4OQTBQThTl9atX2Nb0fHmhF0CPvn5Hak0nUQZq_UCjS3qD0T4cSgEaLvfivVhqMPZW&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_AfyVrEHPMQ-MUJ-7M_dsggFoLocbjrWGmlO9lRV0WwFTyw&oe=69B5CD3A",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-07-23",
       "end_date": "2025-09-06",
       "run_days": 46,
       "offer_angle": "aspirational",
-      "messaging_theme": "brand archives"
+      "messaging_theme": "collection identity"
     },
     {
       "library_id": "564708123262727",
@@ -63,13 +66,14 @@
       "ad_copy": "Explore le vestiaire FAGUO : des pièces éco-conçues imaginées pour t'accompagner partout, et durer saison après saison.",
       "ad_copy_text": "Explore le vestiaire FAGUO : des pièces éco-conçues imaginées pour t'accompagner partout, et durer saison après saison.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/474588082_3439582529681140_6015751547294979569_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Q36UGs_14uYQ7kNvwHlpCSw&_nc_oc=AdkMGWd3ZPpfloYa47DX8jNyzikIUFQlJNR5xijA9gkQlb8uz_DghzzV2Kj2P_K5TSwFjmZzWLL-_lJy1t5I-qia&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_Afx-DrFVMT-d18DGz32YgxcEYGh4eGbdn-fD3b0oz2ETyw&oe=69B5DCEB",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-03-06",
       "end_date": "2025-06-26",
       "run_days": 113,
       "offer_angle": "aspirational",
-      "messaging_theme": "eco-conceived durability"
+      "messaging_theme": "eco durable style"
     },
     {
       "library_id": "1251607329733315",
@@ -79,8 +83,9 @@
       "ad_copy": "Soldes d'été jusqu'à -50% ☀️ Explore le vestiaire FAGUO : des pièces éco-conçues imaginées pour t'accompagner partout, et durer saison après saison.",
       "ad_copy_text": "Soldes d'été jusqu'à -50% ☀️ Explore le vestiaire FAGUO : des pièces éco-conçues imaginées pour t'accompagner partout, et durer saison après saison.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/514449970_1823841504843477_589577687505816906_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Bd1jI4C2foMQ7kNvwEPdPto&_nc_oc=AdnQoJLhvbu8VTsWeWQUXIW8IdO6SQD-590J3hKVyyxLD9BPK3Ht6xbI1tnRGuMkBARNscfc0gJDlfoZ8XFlH_00&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_Afx7fFeACraHNSqynhtHobNZFLN88tIu7lYDCHdzVCw_7Q&oe=69B5D283",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-07-02",
       "end_date": "2025-07-24",
       "run_days": 23,
@@ -95,13 +100,14 @@
       "ad_copy": "Matière moelleuse, tons naturels, chaleur enveloppante. La SENONCHE devient vite indispensable.",
       "ad_copy_text": "Matière moelleuse, tons naturels, chaleur enveloppante. La SENONCHE devient vite indispensable.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/585887709_695588346932193_2057641790905060282_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yoMiMPlFgn8Q7kNvwEd3HNN&_nc_oc=AdlB8EcC5x3PL4XvuUH3TwXxYBwyBfwLfH9ieFkmCNnt_5cFes3FBp4jMIapvEcU6uqlpsnZLbT_TO8ARYHgDUYr&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_AfySGJ_6PdzQyHLBpuyxTuxpMTM8PUYceAmdortzqKeedQ&oe=69B5F13F",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-11-21",
       "end_date": "2026-02-05",
       "run_days": 77,
-      "offer_angle": "pain_point",
-      "messaging_theme": "comfort warmth"
+      "offer_angle": "aspirational",
+      "messaging_theme": "comfort and warmth"
     },
     {
       "library_id": "2124519278080120",
@@ -111,13 +117,14 @@
       "ad_copy": "Nouvelle saison, nouveaux essentiels. Découvre la collection dès maintenant.",
       "ad_copy_text": "Nouvelle saison, nouveaux essentiels. Découvre la collection dès maintenant.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/608858152_904283302114853_5020845142283241734_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KxZxxde1mokQ7kNvwFITxAe&_nc_oc=AdkUgHLU7mrvNwHkF2sksgi4bdwJ2MzEBuAl0pHZzaPbDQZ9935M1BqjPxklbgi2rKsN1hSYb1bcW7Hvk6rOq1tA&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_Afz_1qViYPW8tZdIRwWy6VgXiT0iuuBTdCgVq_1g_aUIwg&oe=69B5F754",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2026-01-06",
       "end_date": "2026-03-05",
       "run_days": 59,
       "offer_angle": "aspirational",
-      "messaging_theme": "new season essentials"
+      "messaging_theme": "seasonal essentials"
     },
     {
       "library_id": "865219825964699",
@@ -127,13 +134,14 @@
       "ad_copy": "Une doublure chaude, une coupe bien pensée, des finitions propres. C’est le cadeau simple qu’on enfile sans y penser.",
       "ad_copy_text": "Une doublure chaude, une coupe bien pensée, des finitions propres. C’est le cadeau simple qu’on enfile sans y penser.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/586253303_1327410555380909_7777846487538740474_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VieKzNv18zsQ7kNvwFXRv_s&_nc_oc=AdmMifP6HBiJhHtG2HBnsaHLbvJbF-9hsGt3YCRqT7jF7taMBoM2tqJlbAvX7Qw-iMnf84Ij8mj1gkc0KyrJoLVp&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_AfyqWTsfF9iEtwqnQj8zv8cPXOnRkVgIWJmnK8dOUziyMA&oe=69B5DEEB",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-11-21",
       "end_date": "2026-02-04",
       "run_days": 76,
-      "offer_angle": "pain_point",
-      "messaging_theme": "functional gift"
+      "offer_angle": "aspirational",
+      "messaging_theme": "practical gift"
     },
     {
       "library_id": "4096396750672850",
@@ -143,13 +151,14 @@
       "ad_copy": "Du cuir grainé, du suède, une semelle épaisse. La DAHLIA s’inspire des 90s avec un twist moderne. Soldée, en ligne et en boutique.",
       "ad_copy_text": "Du cuir grainé, du suède, une semelle épaisse. La DAHLIA s’inspire des 90s avec un twist moderne. Soldée, en ligne et en boutique.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/608812979_1220879713471114_487162128564023652_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rLXcu3-pyNwQ7kNvwFArxYc&_nc_oc=Adk6RJTkBrKfCcYDVCPCqvsxD4HOfDDHJQ2P9JuMjIxFysIYxwpZvN1Y46kxdlqcclpcXGuiX8pioeynVmPdBOZ9&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_AfxJVxtZ1Itq6dZJWLI6cqHEI4AJ5cqpAyeQ2utd33F6lg&oe=69B5DC5E",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2026-01-07",
       "end_date": "2026-02-05",
       "run_days": 30,
       "offer_angle": "discount",
-      "messaging_theme": "seasonal sale"
+      "messaging_theme": "90s inspired"
     },
     {
       "library_id": "2023355878495873",
@@ -159,13 +168,14 @@
       "ad_copy": "Un vestiaire pensé pour bouger. Du matin au soir. De la ville à la forêt. Découvre les essentiels FAGUO.",
       "ad_copy_text": "Un vestiaire pensé pour bouger. Du matin au soir. De la ville à la forêt. Découvre les essentiels FAGUO.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/565881381_1492684128719029_8651370365379157303_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yKH0BRQKjdEQ7kNvwFv6za1&_nc_oc=AdnswujABKsoNGJPX6PCIUrc19S-fHQ6fcnH5UyU3VtiDk85OdE5bZs_IUCyM3rgfry6XrXVXNcWycWAOe1_TwkZ&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_Afx3_9CYqjBIt6TjHx9rpLTM0l_4zJZ21x0Ma3bq2qeGpg&oe=69B5D09B",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-10-15",
       "end_date": null,
       "run_days": 147,
       "offer_angle": "aspirational",
-      "messaging_theme": "versatile wardrobe"
+      "messaging_theme": "active lifestyle"
     },
     {
       "library_id": "4147938058775896",
@@ -175,8 +185,9 @@
       "ad_copy": "Nouvelle démarque | Jusqu'à -50% sur ton vestiaire d'été pendant les Soldes FAGUO !",
       "ad_copy_text": "Nouvelle démarque | Jusqu'à -50% sur ton vestiaire d'été pendant les Soldes FAGUO !",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/518251985_965638792270943_9136533323585004363_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=h1eJn62I080Q7kNvwGSuRy8&_nc_oc=AdngkA5iW8VZhbXwUKcq_IQLk8knDmbitL4d6mn5evdy-pxqjMJxr2c4GUOmAVZ1VA4PZYgxkOSsp3F31azDS2Z8&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_AfzOIWEgJAIVr97bsKFferciXcyOKQaUXsjRCYzoS8Gm-w&oe=69B5DF6E",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-07-09",
       "end_date": "2025-07-23",
       "run_days": 15,
@@ -191,13 +202,14 @@
       "ad_copy": "Soldes jusqu’à -50%.",
       "ad_copy_text": "Soldes jusqu’à -50%.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/608979995_1587050922318996_2994489756563302876_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YHdC9V8mODEQ7kNvwH_4ANy&_nc_oc=Admr1BnOFErAnnNonsoaRCOKACh1b-HfYp_r6sCrfIgIFbPODXdmi8KKFTtBwTTner017MbdzRBIs0FuTrgT29F3&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_Afy4KrypnKC14yoKmzXhGUk5bUK9VWyOp8-9rGcc08fglQ&oe=69B5D343",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2026-01-06",
       "end_date": "2026-02-06",
       "run_days": 32,
       "offer_angle": "discount",
-      "messaging_theme": "seasonal discount"
+      "messaging_theme": "sale promo"
     },
     {
       "library_id": "1816895488948427",
@@ -207,13 +219,14 @@
       "ad_copy": "Une polaire douce, un denim robuste, une casquette discrète. Des essentiels bien faits. Pensés pour durer.",
       "ad_copy_text": "Une polaire douce, un denim robuste, une casquette discrète. Des essentiels bien faits. Pensés pour durer.",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/584962078_1964418060786080_393792359984273308_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kx2jVo_o-aMQ7kNvwHbmzp6&_nc_oc=AdmA01mxmw82g73ZM3x7NS0Qo15TdxbQCNyRrYvKRLMY4PiYNaG9X4hZJkvOUo2j7vATRoON9QIwPANl_bJrdIIu&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_AfwsmUzyHYlVbNFyy0fu3N6xtzFIwrZO5f_4nAfthdaNwQ&oe=69B5E477",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-11-21",
       "end_date": "2025-12-22",
       "run_days": 32,
       "offer_angle": "aspirational",
-      "messaging_theme": "well-made essentials"
+      "messaging_theme": "durable essentials"
     },
     {
       "library_id": "1636500517746347",
@@ -223,13 +236,14 @@
       "ad_copy": "Vestiaire intemporel et éco-reponsable à découvrir en ligne et en boutique !",
       "ad_copy_text": "Vestiaire intemporel et éco-reponsable à découvrir en ligne et en boutique !",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/475116771_887561690122251_1438118556037504806_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SObbLPkFy5YQ7kNvwGsbzMa&_nc_oc=AdnhFNdd0bl6d4BpbLOo--WFA40tX77fiUwFfQhfsXjqSEA8GSkaOhsZt1_NcrV86imK-aHt00lW-OAuKnC2CiuI&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_AfySXSkL6YUNtbRffzug_7H8q2a7wj3c5jYVGG6PtQDQZw&oe=69B5FBA8",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-01-27",
       "end_date": "2025-05-06",
       "run_days": 100,
       "offer_angle": "aspirational",
-      "messaging_theme": "eco friendly style"
+      "messaging_theme": "eco timeless"
     },
     {
       "library_id": "595999860040615",
@@ -239,13 +253,14 @@
       "ad_copy": "Sous le soleil, on pense déjà à demain. Les premières pièces de la nouvelle collection sont arrivées.",
       "ad_copy_text": "Sous le soleil, on pense déjà à demain. Les premières pièces de la nouvelle collection sont arrivées.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/526671967_1308764184213722_7842185386816377042_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8AclZfYKtdEQ7kNvwF2Ep6V&_nc_oc=AdnCCXRdAuW8m8iYV2OreYteJJwUwKtwlNgBjXjV4QEq2ruvtM2h6Rdkt58IthQIXxgC3aGqhZGkzGc8T0qWasrd&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_AfyCLGfV9BXfCbTM4zcl3zI1Xki6Wjkpir5phfIB18eynA&oe=69B5E0C4",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-08-01",
       "end_date": "2025-10-07",
       "run_days": 68,
       "offer_angle": "aspirational",
-      "messaging_theme": "new collection arrival"
+      "messaging_theme": "season preview"
     },
     {
       "library_id": "985871853693168",
@@ -255,8 +270,9 @@
       "ad_copy": "Retrouve nos iconiques dans une capsule estivale à l'esprit vintage et à l'empreinte carbone toujours plus basse. En édition limitée.",
       "ad_copy_text": "Retrouve nos iconiques dans une capsule estivale à l'esprit vintage et à l'empreinte carbone toujours plus basse. En édition limitée.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/492510421_1873875006799010_4928859158846270118_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Q3TNvW0qqnUQ7kNvwH4oAHf&_nc_oc=Adng8sqM_TBMGuzJgfbhwcawFB6GVRnvswAEDnlnZuLnHxjQdDE1FJfPKBA6PH5kkwkgPqzd0tAu31FDme4sodqS&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_AfypUFDVLS7sKXMTfTG-zz0YxaC_8V1yfnDTHqcDU1c1Eg&oe=69B5EDA2",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-04-24",
       "end_date": "2025-06-29",
       "run_days": 67,
@@ -271,13 +287,14 @@
       "ad_copy": "HAZEL, l'intemporel. Confort immédiat, silhouette discrète, détails soignés. Et jusqu'à -50%.",
       "ad_copy_text": "HAZEL, l'intemporel. Confort immédiat, silhouette discrète, détails soignés. Et jusqu'à -50%.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/611589672_1859901355395765_7162709116514180820_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=f746lHWrByAQ7kNvwG-dhTt&_nc_oc=AdmwkCuiAEfWcxJIFpqIvDXDZB9_2tiooty7to5mDoduSD8Wn7Is-2wWiQt2srMVp3H2p_I-m5EnS2EYp0z2MbCI&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_AfwxCWaA2pP8a1rthtHK1hU5LUsnwRMrfQMSmwW8QjvO1w&oe=69B5D6AF",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2026-01-07",
       "end_date": "2026-02-05",
       "run_days": 30,
       "offer_angle": "discount",
-      "messaging_theme": "discounted timeless"
+      "messaging_theme": "classic sale"
     },
     {
       "library_id": "3988369688084195",
@@ -287,13 +304,14 @@
       "ad_copy": "Découvre le vestiaire FAGUO. Des pièces éco-conçues pensées pour pour la ville comme pour l'évasion. Saison après saison.",
       "ad_copy_text": "Découvre le vestiaire FAGUO. Des pièces éco-conçues pensées pour pour la ville comme pour l'évasion. Saison après saison.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/522617241_2238822083301926_8053529683460550209_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=137qp2Tzl2kQ7kNvwEtngW6&_nc_oc=AdmUTKcwb90vep5jRtkSjgscl4FV-68m7pJBfhAUuuZMjIOI3dwHbQxMjyUwtSHpJRPClm4rNObwn3e31KU1v8Cg&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_AfwmCFWCyYPIl2pqDygeGbAEfuFGU0bR--9JMzgb_flIZw&oe=69B60350",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-07-24",
       "end_date": "2025-09-26",
       "run_days": 65,
       "offer_angle": "aspirational",
-      "messaging_theme": "eco-conceived versatility"
+      "messaging_theme": "eco versatile"
     },
     {
       "library_id": "755529910342539",
@@ -303,8 +321,9 @@
       "ad_copy": "Archives | Jusqu'à -50% sur ton vestiaire d'été FAGUO",
       "ad_copy_text": "Archives | Jusqu'à -50% sur ton vestiaire d'été FAGUO",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/524249975_1077405644334624_5560803334988833395_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ktbGTFvfhMYQ7kNvwFWVfaw&_nc_oc=Adm-JJixg2cIZER4DvYpQsbsFE5RGUD3jNfEJgm8jS2rx8f7b6xdCTLhDh5ln12p4dl0CtP097P8iZ365cC76I72&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_AfxBP2hlA62fnx8rhfjfyploBF4jyMbZFAU79e3KSzcg9w&oe=69B5E78D",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-07-24",
       "end_date": "2025-09-06",
       "run_days": 45,
@@ -319,13 +338,14 @@
       "ad_copy": "LIMWOOD. La basket tout-terrain signée FAGUO x BARBOUR. Cuir mat, esprit coton ciré. En édition (très) limitée.",
       "ad_copy_text": "LIMWOOD. La basket tout-terrain signée FAGUO x BARBOUR. Cuir mat, esprit coton ciré. En édition (très) limitée.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/559561726_1533729601388800_6414711901808604793_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yb4VyHhaiyEQ7kNvwGKEQ4P&_nc_oc=AdkjxYziFTAfQiam8v71d1H2WNPIsK-OdTCgsm0YaBDu2HaZ-C0LFbGI4vt4CXP-tNP8GrPTfuepv_6ZlBvvH058&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_AfybzcxdIAJPKouBdH6dsM4aij_ZmzobnepBFxnBlkvWDQ&oe=69B5D3DB",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-10-19",
       "end_date": "2025-11-04",
       "run_days": 17,
       "offer_angle": "urgency",
-      "messaging_theme": "very limited edition"
+      "messaging_theme": "limited edition"
     },
     {
       "library_id": "29613507561596920",
@@ -335,13 +355,14 @@
       "ad_copy": "Explore le vestiaire FAGUO : des pièces éco-conçues imaginées pour t'accompagner partout et durer saison après saison.",
       "ad_copy_text": "Explore le vestiaire FAGUO : des pièces éco-conçues imaginées pour t'accompagner partout et durer saison après saison.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/490864272_1378084290148635_4247497317104846856_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5Zt3IsmVBYkQ7kNvwG3Lopx&_nc_oc=Adn7bB-UKMU94IPthfYtD3DNWLftEJiejt1Anpv6u8XtM0mkvig6yXH6GT9u9ifkWjkPI8T7gKLm2HVXNHiybwUD&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_AfwDM0Bz6j8O03MqTL0CPyyZQYyFAFzsKN5zVkn-C0EFZA&oe=69B5EEF1",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-05-06",
       "end_date": "2025-06-12",
       "run_days": 38,
       "offer_angle": "aspirational",
-      "messaging_theme": "eco-conceived durability"
+      "messaging_theme": "eco durability"
     },
     {
       "library_id": "1385805029202220",
@@ -351,13 +372,14 @@
       "ad_copy": "Jusqu'à -50%. Un twist léopard, une silhouette marquée, un style qui change tout. La CEIBA donne du caractère à chaque pas.",
       "ad_copy_text": "Jusqu'à -50%. Un twist léopard, une silhouette marquée, un style qui change tout. La CEIBA donne du caractère à chaque pas.",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/608073314_1781287985790672_508100597105245182_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MDcP3PhYQpoQ7kNvwEtpq84&_nc_oc=AdlgTao9C_NU3TSazh16VORVSVqdAoYV1wyaW_C6YJhGTG9CMUtyKf6hwO4AaKIxvBwbQP6cmAAkMY2VCHrPF77p&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_AfxfjxLtvolRnA9HW4VyvVw_0XLquFiWtc3eDmjmuWawqw&oe=69B5FB60",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2026-01-07",
       "end_date": "2026-02-05",
       "run_days": 30,
       "offer_angle": "discount",
-      "messaging_theme": "discounted bold style"
+      "messaging_theme": "character style"
     },
     {
       "library_id": "882585774355614",
@@ -367,13 +389,14 @@
       "ad_copy": "Jusqu’à -50%. Des couleurs sobres, une allure rétro, une semelle épaisse. Les LUMBO s’adaptent à tous tes looks.",
       "ad_copy_text": "Jusqu’à -50%. Des couleurs sobres, une allure rétro, une semelle épaisse. Les LUMBO s’adaptent à tous tes looks.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/608810431_805427305854788_6708797723483262317_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MfEzWkOyTVkQ7kNvwGGxDaY&_nc_oc=Adl3d5GNQ3tf9sy9sZ_Joa-I4aS3dRT6TF_qo2ZjNR2wxHzn8IAzt_AfoUrS2nMKE3EXSAxhmxp1hZzfNJ_mILta&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_Afx8sES1gAlntKRkFbo218bJxrR55lw7dt8f8WA3VqUJig&oe=69B5DDFA",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2026-01-07",
       "end_date": "2026-02-04",
       "run_days": 29,
       "offer_angle": "discount",
-      "messaging_theme": "discounted classic"
+      "messaging_theme": "retro style"
     },
     {
       "library_id": "522329370590515",
@@ -383,13 +406,14 @@
       "ad_copy": "Découvre Color Impulse ! La nouvelle collection aux accents rétro et aux couleurs audacieuses reflétant lʼénergie vibrante des journées estivales. Disponible en ligne et en boutique.",
       "ad_copy_text": "Découvre Color Impulse ! La nouvelle collection aux accents rétro et aux couleurs audacieuses reflétant lʼénergie vibrante des journées estivales. Disponible en ligne et en boutique.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/485655545_1105685674662860_9113986502496959585_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TbVeNSf-0dwQ7kNvwH8goPj&_nc_oc=AdmLQo62QqC6o3hqdmuSrVQltPEdnwwz6qXju1SnjuEg_qNJ16L1GlkLg7QYTpsYrY1hf3M1nIglAzVuPvUZOWkI&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_AfzQ_I3KgpVGypQWQURDjoij2eFIAp4PJ82FtTEMhhg14w&oe=69B5CF7C",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-03-21",
       "end_date": "2025-06-30",
       "run_days": 102,
       "offer_angle": "aspirational",
-      "messaging_theme": "vibrant collection"
+      "messaging_theme": "colorful retro"
     },
     {
       "library_id": "23878253185167309",
@@ -399,13 +423,14 @@
       "ad_copy": "Découvre la LUMBO, notre basket intemporelle ! Elle apporte une touche vintage à tes looks urbains. Disponible en trois coloris du 36 au 46.",
       "ad_copy_text": "Découvre la LUMBO, notre basket intemporelle ! Elle apporte une touche vintage à tes looks urbains. Disponible en trois coloris du 36 au 46.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/515718837_1128698592626295_6683444055973675055_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8Up3DPTv4FYQ7kNvwFp7L2b&_nc_oc=Adn8TSH2pTGZfOcQD1gmIsAEwAEZjfITwX28IAh16PYZhNZf_Il8bawV8XDXu5fLP-DY3dhrVg9syNqf-WyPSGQW&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_AfyyuQHz8Kwe4srFFoVyYdNbkbHO3PdyNEFi4jH-_D8RgA&oe=69B5E6EA",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-07-02",
       "end_date": "2025-11-01",
       "run_days": 123,
       "offer_angle": "aspirational",
-      "messaging_theme": "timeless sneaker"
+      "messaging_theme": "vintage look"
     },
     {
       "library_id": "1284895593074137",
@@ -415,13 +440,14 @@
       "ad_copy": "Jusqu'à -50% sur ton vestiaire d'été pendant les Soldes FAGUO ! ☀️",
       "ad_copy_text": "Jusqu'à -50% sur ton vestiaire d'été pendant les Soldes FAGUO ! ☀️",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/510209774_694975946663709_8252800426666259897_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mi9zAfMSBkYQ7kNvwHxcC-5&_nc_oc=AdkIxatRyW4XRYSbqIBQJkqoKZl4RacGjfZhlpClqdvnIpk37lQxnMTcN3ERyqXvktVbcpcnHtexqXaE7vt0XX_-&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_AfzjXQsKJ0zhNcGu1i27aDpO-Ds9bs7PTYUuFxH26aBYFQ&oe=69B5EEB8",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-06-25",
       "end_date": "2025-07-23",
       "run_days": 29,
       "offer_angle": "discount",
-      "messaging_theme": "soldes"
+      "messaging_theme": "summer sale"
     },
     {
       "library_id": "1181042994501861",
@@ -431,13 +457,14 @@
       "ad_copy": "Du cuir lisse, du suède doux, des teintes lumineuses. Argenté, rose, taupe, beige, choisis celles qui te plaît. Jusqu'à -50%, en ligne et en boutique.",
       "ad_copy_text": "Du cuir lisse, du suède doux, des teintes lumineuses. Argenté, rose, taupe, beige, choisis celles qui te plaît. Jusqu'à -50%, en ligne et en boutique.",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/608721696_1420297016359704_5778449637036839354_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jcHHhjBtklcQ7kNvwEfNxvU&_nc_oc=Adkjo8_4a_Gbg7vZIWVC8t8XZrPDHcfszB-pdyfiXhhAV699xZz1BauWUJTlYLpAA5YSsfqaEX7iZ1H-kRfTo6wM&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_AfxDzj5Z6UORa4k56PJ7LJOiGwqfyhkS_jTa1WK6a0AM5A&oe=69B5E283",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2026-01-07",
       "end_date": "2026-02-04",
       "run_days": 29,
       "offer_angle": "discount",
-      "messaging_theme": "cuir suède"
+      "messaging_theme": "material variety"
     },
     {
       "library_id": "1335959327858423",
@@ -447,13 +474,14 @@
       "ad_copy": "Des essentiels bien faits. Pensés pour durer. À glisser sous le sapin, ou dans son quotidien.",
       "ad_copy_text": "Des essentiels bien faits. Pensés pour durer. À glisser sous le sapin, ou dans son quotidien.",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/586277478_3163303807172362_2712316638155697073_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=y-KD4mlfFvYQ7kNvwH-v9QL&_nc_oc=AdlDkD2dwYrj59-NjeNcsiqT9_ZF_sUppUTscxvYNI38dt2We9_EROG293jPvBTSgiPL7b2J9-RKdK-J090-zYwd&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_AfxcrQzrGO3pkXPn498wa0sR13yAPORzo__jLRP4XweFKQ&oe=69B5EDAA",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-11-21",
       "end_date": "2026-01-16",
       "run_days": 57,
       "offer_angle": "aspirational",
-      "messaging_theme": "essentiels durables"
+      "messaging_theme": "quality essentials"
     },
     {
       "library_id": "1145217057733747",
@@ -463,13 +491,14 @@
       "ad_copy": "Une polaire douce, une casquette en velours, un jean brut. Des pièces faciles à porter. À associer. À garder.",
       "ad_copy_text": "Une polaire douce, une casquette en velours, un jean brut. Des pièces faciles à porter. À associer. À garder.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/576265491_1155121693260338_9017852799100728159_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-bGhb40_UoIQ7kNvwGdTciJ&_nc_oc=AdnLKPodvdMauZ7J4fE6kAeHb3LnUbblvhQY3_qSAPxupo_c4YaSSHJ5K4Y1uIy_loUZe87aWXnJUXopxbahxDP4&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_AfxDZ3ywsyAOKCdB0EnHedS8lNAxcPAqSnIxwdVzW3mDHw&oe=69B5E78C",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-11-03",
       "end_date": "2025-12-22",
       "run_days": 50,
       "offer_angle": "aspirational",
-      "messaging_theme": "pièces faciles"
+      "messaging_theme": "everyday wear"
     },
     {
       "library_id": "2029667227816017",
@@ -479,13 +508,14 @@
       "ad_copy": "Kaki, rose poudré, camel ou bleu vif : la palette des LUMBO s’élargit. Cuir ou suède, chaque teinte a sa texture. Pensée pour s’adapter à tous les looks, du plus épuré au plus contrasté. Disponible dès maintenant en ligne et en boutique.",
       "ad_copy_text": "Kaki, rose poudré, camel ou bleu vif : la palette des LUMBO s’élargit. Cuir ou suède, chaque teinte a sa texture. Pensée pour s’adapter à tous les looks, du plus épuré au plus contrasté. Disponible dès maintenant en ligne et en boutique.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/628096507_915403264771940_7944733492949869497_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kAUgXumWFUgQ7kNvwEsqf08&_nc_oc=Adl74KVJvisHIb2j6mh2E0rC9BC_uaHoRnqvoSTQxb4boEcr7MXUaMjstwoxUUORxA5fp_ZpqOMEEFoG3sL66c8f&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=6Qyl2nN1jkjatTRHlmwgDA&_nc_ss=8&oh=00_AfzCLlzlpVmhi_KNdyjCHxMkY4tMgEAlTjAhx6OQX8hCsA&oe=69B5D448",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2026-02-07",
       "end_date": null,
       "run_days": 32,
       "offer_angle": "aspirational",
-      "messaging_theme": "palette variée"
+      "messaging_theme": "color options"
     },
     {
       "library_id": "861408296802595",
@@ -495,13 +525,14 @@
       "ad_copy": "Soldes. Vert, beige, noir, marine. Des teintes naturelles pour un essentiel du quotidien. En ligne et en boutique.",
       "ad_copy_text": "Soldes. Vert, beige, noir, marine. Des teintes naturelles pour un essentiel du quotidien. En ligne et en boutique.",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/608555210_2085200748995976_2923411619337977092_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MiGTJeZvM-kQ7kNvwH-WT1J&_nc_oc=Adkazcw2dm7cvgJzaB_4F7LzqeiGU1nLl3DaxJX-DfucJII050LorNtJQVhxthwf9X_Z2k6YM0ZacRvdbCj2Pzau&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=PNz-SoGX20U79savu8XQfA&_nc_ss=8&oh=00_AfwrTsPN2ATrGfBc3IxFbE6BhGjp28C_NYXhsE4J1urSiA&oe=69B5F207",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2026-01-07",
       "end_date": "2026-02-05",
       "run_days": 30,
       "offer_angle": "discount",
-      "messaging_theme": "soldes couleurs"
+      "messaging_theme": "seasonal sale"
     },
     {
       "library_id": "551707651315651",
@@ -511,13 +542,14 @@
       "ad_copy": "Soleil, week-ends prolongés, baignades : direction l’été avec notre collection de maillots recyclés !",
       "ad_copy_text": "Soleil, week-ends prolongés, baignades : direction l’été avec notre collection de maillots recyclés !",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/494433166_659804846966584_471620938930284093_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BCKS3A8mftAQ7kNvwG0KyQ0&_nc_oc=AdkGl9FBS3Djdgv2lmqG2XKaYwbvOkOsQJnTPagvytqZOS6o0McXkNWoEuuMuOCLYFZlHnBy0_8Z1ZkjRUx7rZM4&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=PNz-SoGX20U79savu8XQfA&_nc_ss=8&oh=00_AfzWSyFLlmwuAVj1cxN5PHj6Jt4gMk79CcksB-7ybmgmtA&oe=69B5DDCD",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-05-06",
       "end_date": "2025-07-31",
       "run_days": 87,
       "offer_angle": "aspirational",
-      "messaging_theme": "été recyclé"
+      "messaging_theme": "summer lifestyle"
     },
     {
       "library_id": "1159473309270152",
@@ -527,13 +559,14 @@
       "ad_copy": "Explore le vestiaire FAGUO : des pièces éco-conçues imaginées pour t'accompagner partout et durer saison après saison.",
       "ad_copy_text": "Explore le vestiaire FAGUO : des pièces éco-conçues imaginées pour t'accompagner partout et durer saison après saison.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/514796301_652910137774124_9127448980591451409_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8MPYeJg6aAsQ7kNvwHG9g7X&_nc_oc=Adk4zIljHO7Pcc6r-Wi80nsD27sS9oo2urLUQ3bdmDaNCP6T42OclT471RjLaqIpNiwkmjvymL5fJtZrozvdAyH8&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=PNz-SoGX20U79savu8XQfA&_nc_ss=8&oh=00_Afwo4U1SfDick7LET___f-hUkUimZwmGOJZnGGOV4OvYvQ&oe=69B60494",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-06-30",
       "end_date": "2025-07-02",
       "run_days": 3,
       "offer_angle": "aspirational",
-      "messaging_theme": "éco-conçu"
+      "messaging_theme": "eco durablity"
     },
     {
       "library_id": "789771773946451",
@@ -543,13 +576,14 @@
       "ad_copy": "Toile cirée, col velours, doublure sherpa. Une signature FAGUO x BARBOUR en édition (très) limitée.",
       "ad_copy_text": "Toile cirée, col velours, doublure sherpa. Une signature FAGUO x BARBOUR en édition (très) limitée.",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/514275735_827716653069605_2671400832921767000_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fEZms-XsiFsQ7kNvwGcd8Ec&_nc_oc=Admkfql_--4k_Nmu-JXK2pauocJKDKHkGg5jVUeiFB8hb56ZljFp2ELz0EXyziozItbZRJpjlk-fD1PpbIY1oLUW&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=PNz-SoGX20U79savu8XQfA&_nc_ss=8&oh=00_AfwNEWKYms5bldnW0ZuTRJEdtzx_EfkRth7bddazYyxw5g&oe=69B5E52A",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-10-19",
       "end_date": "2025-11-04",
       "run_days": 17,
       "offer_angle": "urgency",
-      "messaging_theme": "édition limitée"
+      "messaging_theme": "limited edition"
     },
     {
       "library_id": "560578073638803",
@@ -559,13 +593,14 @@
       "ad_copy": "Vestiaire intemporel et éco-reponsable à découvrir en ligne et en boutique !",
       "ad_copy_text": "Vestiaire intemporel et éco-reponsable à découvrir en ligne et en boutique !",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/472105164_1329437078238547_5255084795101174412_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9LF_IQarPlMQ7kNvwHFBKu6&_nc_oc=Adn4u6zkPIhiTYWQ_vzTOa7Ik_BY8yPa7jNI6kfZ5KocXHkDaxej9uhPvP7Td2Gl0QFX4o2G1lvO1JsALF03N8nU&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=PNz-SoGX20U79savu8XQfA&_nc_ss=8&oh=00_AfxwrVUTYixlua5p6iIQUFX4Sx5soguidnDRWKq84X7fhw&oe=69B5EA27",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-01-05",
       "end_date": "2025-05-06",
       "run_days": 122,
       "offer_angle": "aspirational",
-      "messaging_theme": "intemporel éco"
+      "messaging_theme": "timeless eco"
     },
     {
       "library_id": "2201850263613938",
@@ -575,13 +610,14 @@
       "ad_copy": "Soldes jusqu'à -50% sur notre vestiaire d'été. C'est le moment d'en profiter.",
       "ad_copy_text": "Soldes jusqu'à -50% sur notre vestiaire d'été. C'est le moment d'en profiter.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/514420148_723895503379007_8241331330154269491_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L1IgHUBb-cQQ7kNvwEz2qug&_nc_oc=AdlLQmZkUWaNTKKxbWDj9PwiKusjkorsrF-GAsUejXpBxRcY-q4GmE-e0c6nekZKZ5SGdBWX8Qu_YhKKXWVLAGwA&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=PNz-SoGX20U79savu8XQfA&_nc_ss=8&oh=00_Afx8qNrgM3UdI72P6xHHD8bZ3Re29gxiTYkb2YJvJIfdzg&oe=69B5E999",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-06-30",
       "end_date": "2025-09-09",
       "run_days": 72,
       "offer_angle": "discount",
-      "messaging_theme": "soldes été"
+      "messaging_theme": "summer discount"
     },
     {
       "library_id": "1799379284298483",
@@ -591,13 +627,14 @@
       "ad_copy": "Une matière épaisse et douce. Une coupe droite. Un col montant zippé. La polaire AUBIAC réchauffe avec justesse.",
       "ad_copy_text": "Une matière épaisse et douce. Une coupe droite. Un col montant zippé. La polaire AUBIAC réchauffe avec justesse.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/554091970_1518824992587413_360145373816283263_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pzHbjMWJDlUQ7kNvwFo2c6Q&_nc_oc=Adk9JImQ8gTUEP_JNBt2mUS74AegmuydXsLD7zV8nE8JTisRr8aiNzUC6d6qre9sq1IYJY6DG-F1iG9tyDVY05IR&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=PNz-SoGX20U79savu8XQfA&_nc_ss=8&oh=00_Afz_Un557oTampuIL5P5udH6s96hLZev3PmsLL7Wj7FfuQ&oe=69B5F7D7",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-09-25",
       "end_date": "2025-11-05",
       "run_days": 42,
       "offer_angle": "aspirational",
-      "messaging_theme": "polaire chaude"
+      "messaging_theme": "cozy clothing"
     },
     {
       "library_id": "1315448020596362",
@@ -607,13 +644,14 @@
       "ad_copy": "Maille raffinée, col zippé, coupe soignée. Le pull ARDENNE allie confort et style avec justesse.",
       "ad_copy_text": "Maille raffinée, col zippé, coupe soignée. Le pull ARDENNE allie confort et style avec justesse.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/587821267_1270919691462586_6618524892547651619_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Il8kzTM01NIQ7kNvwEoA4wb&_nc_oc=AdnT7d1xKMnpWBZdXzZMNP-tG0mmeLovrPht9Eu9plv4l5kbWJQ3Y1WHAVmoIbaaFD2sneSPojeWK1gWt5LXgzEL&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=PNz-SoGX20U79savu8XQfA&_nc_ss=8&oh=00_Afw0Mxup2fqyTJJMWZ68XxO1aHgWui1TospUaMzNq9msPQ&oe=69B5FF71",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-11-21",
       "end_date": "2026-02-06",
       "run_days": 78,
       "offer_angle": "aspirational",
-      "messaging_theme": "mailles élégantes"
+      "messaging_theme": "refined knitwear"
     },
     {
       "library_id": "2886788988181322",
@@ -623,13 +661,14 @@
       "ad_copy": "Marine, kaki, camel, taupe ou bleu clair. La LUMBO se décline sans jamais se tromper. Et en ce moment, à prix doux.",
       "ad_copy_text": "Marine, kaki, camel, taupe ou bleu clair. La LUMBO se décline sans jamais se tromper. Et en ce moment, à prix doux.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/625375677_1217942007138177_1832354440189826146_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uO3KvBkqrtcQ7kNvwGkFrrH&_nc_oc=AdnyV4LF5xCS21peR5DYa9-7z6RmKZ-gaFzODqEp4TqPTjwt98DCd5B98eaUfi18Wwnh3YIVPSxg-soCwnWKK123&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=PNz-SoGX20U79savu8XQfA&_nc_ss=8&oh=00_AfwybtDPGG3AgHctVQBs-WxzzwzHQnQhAMEb-ew79H02aQ&oe=69B5E9FD",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2026-02-04",
       "end_date": "2026-03-04",
       "run_days": 29,
       "offer_angle": "discount",
-      "messaging_theme": "prix doux"
+      "messaging_theme": "price promotion"
     },
     {
       "library_id": "808319892013231",
@@ -639,13 +678,14 @@
       "ad_copy": "Du relief, de la douceur, des teintes naturelles. Le sweat AMBOISE mêle confort et élégance sans jamais en faire trop.",
       "ad_copy_text": "Du relief, de la douceur, des teintes naturelles. Le sweat AMBOISE mêle confort et élégance sans jamais en faire trop.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/576430682_24989997847295701_7527463057201067604_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZUVhKgrHadEQ7kNvwF-ygb7&_nc_oc=AdlAEWxFgpfuBX-kmMdTmATkrbeb-4NfzTgW1dG2TV9QANg7-sFQuPZkP4wGhcA8zb6941i7rQMMg4yR3b2plj_2&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=PNz-SoGX20U79savu8XQfA&_nc_ss=8&oh=00_AfypRG-trc825gn9JA114e41o8aBg2gWjG5RI3Km0TPfsg&oe=69B6012C",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-11-03",
       "end_date": "2025-12-22",
       "run_days": 50,
       "offer_angle": "aspirational",
-      "messaging_theme": "confort élégance"
+      "messaging_theme": "comfort style"
     },
     {
       "library_id": "1194136728956562",
@@ -655,13 +695,14 @@
       "ad_copy": "Deux façons d’aimer la polaire. Avec ou sans manches, même douceur, même style. Et en ce moment, elles passent à prix doux.",
       "ad_copy_text": "Deux façons d’aimer la polaire. Avec ou sans manches, même douceur, même style. Et en ce moment, elles passent à prix doux.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/611009418_3384013185088649_6837223665290929331_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5w-obi39NHAQ7kNvwHcOCw7&_nc_oc=AdlH_oCg53k7bCchUDLFQoKzEvTRt17DbePWak7vnUh6gvQOZG7L8h9w0mshTGtWccGTVznoON9JLxushJmQI9HC&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=J3sBlszqmu7XQ-4OT34zKA&_nc_ss=8&oh=00_AfzP70MrdBq1mPi46f93W-e5g0I7DbW7ZCTRetN-7s-4Qw&oe=69B5F0ED",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2026-01-07",
       "end_date": "2026-02-04",
       "run_days": 29,
       "offer_angle": "discount",
-      "messaging_theme": "prix doux polaire"
+      "messaging_theme": "price reduction"
     },
     {
       "library_id": "696612396836674",
@@ -671,13 +712,14 @@
       "ad_copy": "Des basiques bien faits, des mailles douces, des essentiels du quotidien. Une sélection pensée pour toucher juste.",
       "ad_copy_text": "Des basiques bien faits, des mailles douces, des essentiels du quotidien. Une sélection pensée pour toucher juste.",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/586040666_1912330742684942_6767382962713112589_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KW_rP2eKaH0Q7kNvwHF72xo&_nc_oc=AdnpbkW_yKiHi3dlW2m3c2CjU7wBHyaMUkUbCQ9X4Z6r3IinNgoxp3LeF9HYCfdycYKNbOEmWOHUhT4wsfFzMhxO&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=J3sBlszqmu7XQ-4OT34zKA&_nc_ss=8&oh=00_Afw2qb8DbkcQ_-cCkghD8JE8DNC-Mj-uCQTPUKEeoS8rqQ&oe=69B5FE9A",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-11-21",
       "end_date": "2026-01-04",
       "run_days": 45,
       "offer_angle": "aspirational",
-      "messaging_theme": "basics doux"
+      "messaging_theme": "basic essentials"
     },
     {
       "library_id": "908969761799237",
@@ -687,13 +729,14 @@
       "ad_copy": "Le sweat qu’on enfile tous les jours. Des couleurs justes, une coupe droite, un coton doux. Et jusqu'à -50%.",
       "ad_copy_text": "Le sweat qu’on enfile tous les jours. Des couleurs justes, une coupe droite, un coton doux. Et jusqu'à -50%.",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/611246682_1181789177442984_5362599090160016544_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WNBU4pSEbroQ7kNvwF443Ox&_nc_oc=AdnpCnEj9u8b4fRSPA2sfI7-c54q32AN8-1RU3dapfeJK8tPZHOPqHlMhnzCYdGPxRZBVj_UptgrOvMu4tGnkqUp&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=J3sBlszqmu7XQ-4OT34zKA&_nc_ss=8&oh=00_Afyh96Ym_mofJTd88kjaJ6OKlMoTpgU9yP9tJgYPnQVhQw&oe=69B5F571",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2026-01-07",
       "end_date": "2026-02-05",
       "run_days": 30,
       "offer_angle": "discount",
-      "messaging_theme": "prix soldes"
+      "messaging_theme": "everyday value"
     },
     {
       "library_id": "1239675127362276",
@@ -703,13 +746,14 @@
       "ad_copy": "Archives | Jusqu'à -50% sur ton vestiaire d'été pendant les Archives FAGUO",
       "ad_copy_text": "Archives | Jusqu'à -50% sur ton vestiaire d'été pendant les Archives FAGUO",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/523430084_606351879195314_3058302197916843761_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iegN8jpZBXEQ7kNvwHQmylh&_nc_oc=Adk-FCIk59EDq-2JUwU4BURuhClijMY8FyIy0Xoxc7AYAHBz5pbdR2T9c4ape1dHjjUxKxDEIf1jntuNMOUXt-Z-&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=J3sBlszqmu7XQ-4OT34zKA&_nc_ss=8&oh=00_AfwWNnYVBux5S-33yJvZvevHw4XmmK9pOmrzYsievrvPJw&oe=69B5FA6D",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-07-24",
       "end_date": "2025-09-05",
       "run_days": 44,
       "offer_angle": "discount",
-      "messaging_theme": "soldes archives"
+      "messaging_theme": "archive sale"
     },
     {
       "library_id": "1267530058307728",
@@ -719,13 +763,14 @@
       "ad_copy": "Jusqu'à -50% sur ton vestiaire d'été pendant les Soldes FAGUO ! ☀️",
       "ad_copy_text": "Jusqu'à -50% sur ton vestiaire d'été pendant les Soldes FAGUO ! ☀️",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/511094474_1282366896785155_281051153830573411_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Q0edGZHU5oMQ7kNvwH_Ajez&_nc_oc=Adlx66O2ciy9CyFVwuXQgu4fhru6hKow4Iy96q-eM9QZ8uvitrzRK8CxH_g2f3k44JXW4usWEr9qNpZKae0aOY5u&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=J3sBlszqmu7XQ-4OT34zKA&_nc_ss=8&oh=00_AfyRFioLBDVNRgO6pOpPAXdoOAtw93k-N1pm6zH43-UDPg&oe=69B5D4B6",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-06-25",
       "end_date": "2025-07-23",
       "run_days": 29,
       "offer_angle": "discount",
-      "messaging_theme": "soldes été"
+      "messaging_theme": "summer sale"
     },
     {
       "library_id": "712320498214387",
@@ -735,13 +780,14 @@
       "ad_copy": "Soldes jusqu'à -50% ! Retrouve nos essentiels éco-conçus imaginés pour durer et t'accompagner partout",
       "ad_copy_text": "Soldes jusqu'à -50% ! Retrouve nos essentiels éco-conçus imaginés pour durer et t'accompagner partout",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/510598387_1094742092506222_1353505696658922450_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Tjrwg9GvkFgQ7kNvwH4QxBy&_nc_oc=Adn2e3WvlmR5eDo6HPS0BRct5abgbf1O4tlekCJgszvdYx4tHGX_qgPIgKDXhBpPxs4NkwiiGyKc1Q3F7-o6LssJ&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=J3sBlszqmu7XQ-4OT34zKA&_nc_ss=8&oh=00_AfyfdURA79ZJy9qxVYdbjKsASbRB2th6ijiTkh5SJwyKTg&oe=69B5FA02",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-06-25",
       "end_date": "2025-07-23",
       "run_days": 29,
       "offer_angle": "discount",
-      "messaging_theme": "soldes éco"
+      "messaging_theme": "eco sale"
     },
     {
       "library_id": "1544832139810198",
@@ -751,13 +797,14 @@
       "ad_copy": "Jusqu'à -50% sur ton vestiaire d'été pendant les Soldes FAGUO !",
       "ad_copy_text": "Jusqu'à -50% sur ton vestiaire d'été pendant les Soldes FAGUO !",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/508413416_1058217293093073_7252809513563605352_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hdgRywhdsXwQ7kNvwFSIVHi&_nc_oc=AdkTLlNMcj-NjnKJCchkMfmd-GPk4g6_q-GEVK5rbbeU_DEOCYdkpQ29FqN8VNvRvCBsNuddelLbt9vu1VxU9xaj&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=J3sBlszqmu7XQ-4OT34zKA&_nc_ss=8&oh=00_AfxfdFKzjNY3IkeW3YytJVliNDwwPOGffInYwvKAyZCIFA&oe=69B5EA1C",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-06-24",
       "end_date": "2025-07-23",
       "run_days": 30,
       "offer_angle": "discount",
-      "messaging_theme": "soldes été"
+      "messaging_theme": "summer sale"
     },
     {
       "library_id": "3787791338182795",
@@ -767,13 +814,14 @@
       "ad_copy": "Du cuir grainé, du suède, une semelle épaisse. La DAHLIA s’inspire des 90s avec un twist moderne. Soldée, en ligne et en boutique.",
       "ad_copy_text": "Du cuir grainé, du suède, une semelle épaisse. La DAHLIA s’inspire des 90s avec un twist moderne. Soldée, en ligne et en boutique.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/626731048_1410528840527242_3223418194395356323_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=58SduPYQIMIQ7kNvwGMqVXE&_nc_oc=AdnmKxwYwlwU2lvtrH0jFETXcs9zUsNl-yVFTLdGpDrKwboDUFtqVQDLe-mFGfxk7kXBmGY7MugElqXz6LawoR-0&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=J3sBlszqmu7XQ-4OT34zKA&_nc_ss=8&oh=00_AfzWCoErBYCdipKlndB7AuRutHaQdfgVP2AF5e3xWcyihw&oe=69B60055",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2026-02-04",
       "end_date": "2026-03-05",
       "run_days": 30,
       "offer_angle": "discount",
-      "messaging_theme": "soldes 90s"
+      "messaging_theme": "nostalgic sale"
     },
     {
       "library_id": "2228029814390298",
@@ -783,13 +831,14 @@
       "ad_copy": "Pull en laine chaude, chemise en coton doux, jean en toile de sergé, basket HAZEL en cuir texturé. Quatre essentiels. Et jusqu'à -50%.",
       "ad_copy_text": "Pull en laine chaude, chemise en coton doux, jean en toile de sergé, basket HAZEL en cuir texturé. Quatre essentiels. Et jusqu'à -50%.",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/610907896_2646120725749551_5173100522268046100_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oL0Zeb27K60Q7kNvwEgKBlG&_nc_oc=AdldFTlPKo3xDRN8cw6601uWg2E_oRB4JsbIUgTj_v2WxolwBlh1l89DHFCAwC-FTB_en4LQ95iGxh32xrDEcJhj&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=J3sBlszqmu7XQ-4OT34zKA&_nc_ss=8&oh=00_AfwNPK6X_jB4Lpm6HSB7m0Tl1-nZi2fDd2ZiZlx9vjsx_w&oe=69B5D71A",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2026-01-07",
       "end_date": "2026-02-04",
       "run_days": 29,
       "offer_angle": "discount",
-      "messaging_theme": "soldes essentiels"
+      "messaging_theme": "winter essentials"
     },
     {
       "library_id": "1431104801355561",
@@ -799,13 +848,14 @@
       "ad_copy": "Explore le vestiaire FAGUO : des pièces éco-conçues imaginées pour t'accompagner partout et durer saison après saison.",
       "ad_copy_text": "Explore le vestiaire FAGUO : des pièces éco-conçues imaginées pour t'accompagner partout et durer saison après saison.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/514699910_1245997386926155_2532831448945491239_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nzJThdXUWyYQ7kNvwH6TIsC&_nc_oc=AdlbO_KcHY-ME0KptaqitqpSrmtv3dHteyIPWx85a7uanCvWqyFQbo-Dw8MgNf2duozpi4gPWZSSaGHUJBJgHknr&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=J3sBlszqmu7XQ-4OT34zKA&_nc_ss=8&oh=00_Afy5l0P_7j4RvxVwq3HXWCUrFu8tI7QkJRG_CV4DLGmSlg&oe=69B603FC",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-06-30",
       "end_date": "2025-07-02",
       "run_days": 3,
       "offer_angle": "aspirational",
-      "messaging_theme": "éco-conçu"
+      "messaging_theme": "eco durablity"
     },
     {
       "library_id": "590611427203713",
@@ -815,13 +865,14 @@
       "ad_copy": "Explore le vestiaire FAGUO : des pièces éco-conçues imaginées pour t'accompagner partout et durer saison après saison.",
       "ad_copy_text": "Explore le vestiaire FAGUO : des pièces éco-conçues imaginées pour t'accompagner partout et durer saison après saison.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/476832422_638592072082064_3512846725788929863_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=auzvIaSiBa4Q7kNvwGovoeR&_nc_oc=Adm6duRQ5DgL-WT-MGs4Z3AYBVRhE37C8UwUSpvNVWo0QZ51PIluTLgidksVo-XGk5XHUgcvksJR2ik6Zhe5Pg9e&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=YqV82hq4iDaonSsl9v4D4A&_nc_ss=8&oh=00_AfxsGhHxJ2iZtztlZsFpVa7Vg0qWJJ2DSuGo4Ki9QxWWsw&oe=69B5E0CF",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-02-10",
       "end_date": "2025-05-07",
       "run_days": 87,
       "offer_angle": "aspirational",
-      "messaging_theme": "eco-lifestyle"
+      "messaging_theme": "eco design durability"
     },
     {
       "library_id": "1160487302410686",
@@ -831,13 +882,14 @@
       "ad_copy": "Pratiques, durables, faits pour accompagner chaque jour. Des valeurs sûres à glisser sous le sapin les yeux fermés.",
       "ad_copy_text": "Pratiques, durables, faits pour accompagner chaque jour. Des valeurs sûres à glisser sous le sapin les yeux fermés.",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/586316824_859967363160924_2909190573454613906_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5UWOh2jgkyAQ7kNvwFT9rKA&_nc_oc=AdkEf-no8WE2k7sBQKr73AozXOwV89ruvNPiUKWnJUER8mFarfA-F8RjmVlHEMAnxILZZuXTbN0nFBSeRgY2sC2r&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=YqV82hq4iDaonSsl9v4D4A&_nc_ss=8&oh=00_Afx5JBK1j98yMjUw_zRKO8pQdWtG1f6cSBEF76RA3uaz7g&oe=69B5D57B",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-11-21",
       "end_date": "2025-12-22",
       "run_days": 32,
       "offer_angle": "aspirational",
-      "messaging_theme": "daily-reliability"
+      "messaging_theme": "practical durable gifts"
     },
     {
       "library_id": "742718388840538",
@@ -847,13 +899,14 @@
       "ad_copy": "Dans un vestiaire, il y a toujours une chemise préférée. La nôtre s’appelle IVOY, parfaite pour offrir sans se tromper.",
       "ad_copy_text": "Dans un vestiaire, il y a toujours une chemise préférée. La nôtre s’appelle IVOY, parfaite pour offrir sans se tromper.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/586600889_1504996084046187_1667200340003165140_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kXU1FGgdObcQ7kNvwFDwyQC&_nc_oc=AdllIE5PS_LWC8IyCCoq7ypfLXym7Em23GtLJ4DvljapB_m0FO9xliZpvvMKXL11UFNqG-o7gD-Y733eEMy1BebB&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=YqV82hq4iDaonSsl9v4D4A&_nc_ss=8&oh=00_AfzBFVU_3cSyBDP0xst3Rw0SjFuSk6PQD2jE0gmJL9YMjA&oe=69B5D409",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-11-21",
       "end_date": "2026-02-05",
       "run_days": 77,
       "offer_angle": "aspirational",
-      "messaging_theme": "gift-idea"
+      "messaging_theme": "favorite gift shirt"
     },
     {
       "library_id": "1189216656109896",
@@ -863,13 +916,14 @@
       "ad_copy": "Explore le vestiaire FAGUO : des pièces éco-conçues imaginées pour t'accompagner partout et durer saison après saison.",
       "ad_copy_text": "Explore le vestiaire FAGUO : des pièces éco-conçues imaginées pour t'accompagner partout et durer saison après saison.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/476466709_2297867220613095_3271718596577562604_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FRJ8y7bYk-oQ7kNvwFlgvWD&_nc_oc=AdlPkgdvRp6Rq0BN5or6DxNorVbfUl6AfZ7uRUFAaevC3gbsncKZzFOA2PAtNSmaAvenmAf_pS2TBKw8kZiRnj7M&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=YqV82hq4iDaonSsl9v4D4A&_nc_ss=8&oh=00_AfxtydJBftXxEjhJNGofUOpxVv_J_KKR2hdcOTPlht-p-w&oe=69B5CD95",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-02-05",
       "end_date": "2025-05-07",
       "run_days": 92,
       "offer_angle": "aspirational",
-      "messaging_theme": "eco-lifestyle"
+      "messaging_theme": "eco design durability"
     },
     {
       "library_id": "558124300514617",
@@ -879,13 +933,14 @@
       "ad_copy": "Des baskets pensées pour toi, pour t'accompagner partout et tout le temps. Découvre nos nouveautés.",
       "ad_copy_text": "Des baskets pensées pour toi, pour t'accompagner partout et tout le temps. Découvre nos nouveautés.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/506297631_1387767655820792_6522006116857348580_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FzKdx9KYUeUQ7kNvwFF3Js4&_nc_oc=AdlJljIMha5czBfZmvj75NvnIV8lJ70qDUAyhOnu6OXjEumraZY8v03uV79liNT1obEHPQzJOn6daB4aIGAkri_H&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=YqV82hq4iDaonSsl9v4D4A&_nc_ss=8&oh=00_AfyeHTMg_zR38d-5LBciuYNR3nLIyyn1mqjCkhpNYVO1dQ&oe=69B5D9F9",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-06-11",
       "end_date": "2025-06-30",
       "run_days": 20,
       "offer_angle": "aspirational",
-      "messaging_theme": "everyday-use"
+      "messaging_theme": "everyday comfort"
     },
     {
       "library_id": "4377054472576887",
@@ -895,13 +950,14 @@
       "ad_copy": "Archives. Kaki, ocre, bordeaux, menthe. Le sweat DIRAC donne du relief à tous tes looks. En ligne et en boutique.",
       "ad_copy_text": "Archives. Kaki, ocre, bordeaux, menthe. Le sweat DIRAC donne du relief à tous tes looks. En ligne et en boutique.",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/627577166_1562759954837610_4137398328044495076_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XzudmUgL-gQQ7kNvwGwiil6&_nc_oc=AdnVImaWr7oDcXsExt2w7RGfCLBIHij009pfyqMjOM21jo6oUl_uxz2Vp5-kU-KzaGYhorgtioOV9e5e4FFvdUg1&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=YqV82hq4iDaonSsl9v4D4A&_nc_ss=8&oh=00_Afz6hKhkvnsF8aCTWPfBfJtcH9jjcHVfLCyxBANu3FvOyA&oe=69B5E25A",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2026-02-04",
       "end_date": "2026-03-04",
       "run_days": 29,
       "offer_angle": "aspirational",
-      "messaging_theme": "style-detail"
+      "messaging_theme": "fashion color style"
     },
     {
       "library_id": "860917373062992",
@@ -911,13 +967,14 @@
       "ad_copy": "Ceintures en cuir suédé, boucles patinées, détails sobres. L’accessoire juste, celui qu’on porte longtemps, sans se poser de question.",
       "ad_copy_text": "Ceintures en cuir suédé, boucles patinées, détails sobres. L’accessoire juste, celui qu’on porte longtemps, sans se poser de question.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/587404483_1536360840838703_5333496325280260953_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fXVky839AX8Q7kNvwGqUbKV&_nc_oc=AdnhYCBUZUhfEGBz7-9g0JiBK2IcWHrSdsGZmbkPPKdvAXnq9zjQBO7nErqyemgzdA0szvYd5ozyYgmiNVJSJK-E&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=YqV82hq4iDaonSsl9v4D4A&_nc_ss=8&oh=00_Afxj0V3bWDLEKhYdJMgEyZKQCtfFEhuQKi34FeByhqnMYg&oe=69B5D827",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-11-21",
       "end_date": "2026-01-04",
       "run_days": 45,
       "offer_angle": "aspirational",
-      "messaging_theme": "classic-accessory"
+      "messaging_theme": "lasting accessory simplicity"
     },
     {
       "library_id": "1402892891208395",
@@ -927,13 +984,14 @@
       "ad_copy": "Jusqu'à -50%. Une matière moelleuse, une broderie discrète, des teintes faciles à associer. Le DONZY s’enfile sans réfléchir.",
       "ad_copy_text": "Jusqu'à -50%. Une matière moelleuse, une broderie discrète, des teintes faciles à associer. Le DONZY s’enfile sans réfléchir.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/608967498_2089399618475951_6433634661711432978_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=c0GaYrLF5CcQ7kNvwEkZ7rw&_nc_oc=AdkjUv0aTeS6T-5KgH-4S112-kh4niiQi3tfMVNKEI_dLQ_ubOWeA01aZm8RJYEhHQGkgW5leUnwrFwwJF7jIYKZ&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=YqV82hq4iDaonSsl9v4D4A&_nc_ss=8&oh=00_AfxeBs4mnTHwFknYDU4hPxnDT9Zh-i1ZGesuA0IpTmi1dQ&oe=69B5F629",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2026-01-07",
       "end_date": "2026-02-04",
       "run_days": 29,
       "offer_angle": "discount",
-      "messaging_theme": "season-sale"
+      "messaging_theme": "price promotion comfort"
     },
     {
       "library_id": "1487163352581508",
@@ -943,13 +1001,14 @@
       "ad_copy": "Matière douce, coupe droite, teintes franches. Le sweat MESNIL apporte ce qu’il faut de couleur et de confort à ton quotidien.",
       "ad_copy_text": "Matière douce, coupe droite, teintes franches. Le sweat MESNIL apporte ce qu’il faut de couleur et de confort à ton quotidien.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/576515868_775078868908890_5234044646458271425_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lwqPVQMGQo0Q7kNvwGCLSOU&_nc_oc=AdnivC451kZx3ewMY6R_dRQLPRz1kfG-K9ZK3sEi56ncUG2SB0lndqoBD6eRi5vdxOM3rhbvcOA8jOTEuok6fUqD&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=YqV82hq4iDaonSsl9v4D4A&_nc_ss=8&oh=00_AfxmCeu46s63iy0iOG1NlLX3J78MjG1djLJ6q8DYChmI0A&oe=69B5ED66",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-11-03",
       "end_date": "2025-12-23",
       "run_days": 51,
       "offer_angle": "aspirational",
-      "messaging_theme": "comfort-color"
+      "messaging_theme": "comfort daily color"
     },
     {
       "library_id": "754273387566214",
@@ -959,13 +1018,14 @@
       "ad_copy": "Archives | Jusqu'à -50% sur ton vestiaire d'été pendant les Archives FAGUO",
       "ad_copy_text": "Archives | Jusqu'à -50% sur ton vestiaire d'été pendant les Archives FAGUO",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/522715983_1444426693226008_7490193585736889561_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yiDVjUw03VkQ7kNvwGmINC4&_nc_oc=AdkCz8xnZjEP5Y3kzQBwYwdwL2KUG1-5AoKzmfgAsCD1C4QKB4SCT-L__6lRRr5kuf3ELzMgPFmVfVzkkAzF495F&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=YqV82hq4iDaonSsl9v4D4A&_nc_ss=8&oh=00_AfwgiXAk0aTSOJYHiKrWCVh93IYOdP4Wc-Br0aHmGa2kXQ&oe=69B5FBF0",
       "competitor": "Faguo",
-      "scraped_at": "2026-03-10T10:56:36.608Z",
+      "scraped_at": "2026-03-10T13:02:50.783Z",
       "start_date": "2025-07-24",
       "end_date": "2025-09-06",
       "run_days": 45,
       "offer_angle": "discount",
-      "messaging_theme": "summer-sale"
+      "messaging_theme": "summer sale archives"
     }
   ]
 }

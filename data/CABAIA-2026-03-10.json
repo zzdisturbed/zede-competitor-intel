@@ -3,7 +3,7 @@
   "page_id": "254811818003716",
   "country": "FR",
   "source_url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=FR&view_all_page_id=254811818003716",
-  "scraped_at": "2026-03-10T10:55:52.124Z",
+  "scraped_at": "2026-03-10T13:02:10.422Z",
   "ad_count": 58,
   "total_ads": 58,
   "ads": [
@@ -15,13 +15,14 @@
       "ad_copy": "Il fait froid tout d'un coup non ? 🥶 Découvrez notre collection de bonnets chauds et doux avec pompons interchangeables à l'infini !",
       "ad_copy_text": "Il fait froid tout d'un coup non ? 🥶 Découvrez notre collection de bonnets chauds et doux avec pompons interchangeables à l'infini !",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/641451936_1176068108190726_2812682349855856499_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=p0OT41Ax_p4Q7kNvwHuLvpd&_nc_oc=Adnb9QbZeXvxmXX4xvWmGpAHMqMR85GsWmoM-ZhXHo5F9j5vv4TYcHC544viNa9mUEQQ68FCpwMxqqfz_dIZDzSc&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=xJhWSdMdwKDqhB7FBALAMw&_nc_ss=8&oh=00_AfwWVWSzfVJwTWUBqloTbab6iW3NhfW9fHbI5D2xnUGPvg&oe=69B5F3D1",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-11-19",
       "end_date": "2026-02-27",
       "run_days": 101,
-      "offer_angle": "aspirational",
-      "messaging_theme": "warmth comfort"
+      "offer_angle": null,
+      "messaging_theme": null
     },
     {
       "library_id": "779852518001579",
@@ -31,13 +32,14 @@
       "ad_copy": "😍 Le Crossbody, désormais disponible en taille S et L. 🙌 Parfaits pour pimper toutes vos vies, de la plus mini à la plus maxi. 👜 Lequel embarquez-vous pour votre prochaine aventure ?",
       "ad_copy_text": "😍 Le Crossbody, désormais disponible en taille S et L. 🙌 Parfaits pour pimper toutes vos vies, de la plus mini à la plus maxi. 👜 Lequel embarquez-vous pour votre prochaine aventure ?",
       "format": "video",
+      "thumbnail_url": "",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-10-08",
       "end_date": "2025-12-19",
       "run_days": 73,
       "offer_angle": "aspirational",
-      "messaging_theme": "personal adventure"
+      "messaging_theme": "lifestyle"
     },
     {
       "library_id": "875418474910527",
@@ -47,13 +49,14 @@
       "ad_copy": "🤩 Découvrez le Crossbody CABAIA 💫 Sac bandoulière avec pochettes personnalisables, garanti à vie ☀️ Pensé pour les aventuriers du quotidien",
       "ad_copy_text": "🤩 Découvrez le Crossbody CABAIA 💫 Sac bandoulière avec pochettes personnalisables, garanti à vie ☀️ Pensé pour les aventuriers du quotidien",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/586927564_2243436672826545_2938821425889858723_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dOIp01lDUREQ7kNvwEM3YGN&_nc_oc=Adlre2sbqhCa5zfk9A6_8iRYIc4UmrCGwDSGiMaEYGBadeqovqRT4NKCHv6ibr4vInP52fR0dXxhIUhQIL0KIRt9&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=xJhWSdMdwKDqhB7FBALAMw&_nc_ss=8&oh=00_AfwkXHhqs3KDvQE0jotPjeN_Sl7M9BN0AWigeLuYLftlAQ&oe=69B5F17E",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-11-26",
       "end_date": "2026-02-25",
       "run_days": 92,
-      "offer_angle": "authority",
-      "messaging_theme": "customization lifetime"
+      "offer_angle": "aspirational",
+      "messaging_theme": "adventure"
     },
     {
       "library_id": "871957001933335",
@@ -63,13 +66,14 @@
       "ad_copy": "Dernière chance : -30% sur une sélection 😍 Sacs à dos, pochettes ordinateur, sacs isotherme",
       "ad_copy_text": "Dernière chance : -30% sur une sélection 😍 Sacs à dos, pochettes ordinateur, sacs isotherme",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/586566313_816919387858191_3666621198177352308_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=e1g8scPYEp4Q7kNvwGt_pDp&_nc_oc=AdnIHq7ypekMnboWPO_34IfuGJ8lAMgeIjeeTHZiFkWOqOY6Ssj6sOQpI_nkXFR_hHrIjFyp_Rq1MIL142oLyACO&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=xJhWSdMdwKDqhB7FBALAMw&_nc_ss=8&oh=00_Afxe2jHPHZIbqyMceD_8Fe5rqakr7WX_9uThqSUMX-ukVQ&oe=69B5D0F9",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-11-21",
       "end_date": "2025-12-14",
       "run_days": 24,
       "offer_angle": "discount",
-      "messaging_theme": "limited time sale"
+      "messaging_theme": "promotion"
     },
     {
       "library_id": "580070238156625",
@@ -79,13 +83,14 @@
       "ad_copy": "🎒 Votre journée est déjà assez chargée ! Votre sac ne devrait pas l'être ! 🔍 Accès facile avec son ouverture large et protection optimale pour votre ordinateur. On a déjà pensé à tout, laissez votre cerveau respirer.",
       "ad_copy_text": "🎒 Votre journée est déjà assez chargée ! Votre sac ne devrait pas l'être ! 🔍 Accès facile avec son ouverture large et protection optimale pour votre ordinateur. On a déjà pensé à tout, laissez votre cerveau respirer.",
       "format": "carousel",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/499526652_1028611542215690_1044175515347127289_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JwtDcAv7APMQ7kNvwEYbPxI&_nc_oc=AdlqTeAqRhGPGVI4e1f8QOjmqx270Dc7fplnc0GWTqb34hs1mL-eV9Gzap5TBxr9elUgWQVSdJRNw4oYgNXl19OM&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=xJhWSdMdwKDqhB7FBALAMw&_nc_ss=8&oh=00_AfwAH7xGOCppBbl7zxCQibGiztXrynWG1gk6ZXzrIbHX7A&oe=69B5CD43",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-06-17",
       "end_date": "2025-07-30",
       "run_days": 44,
       "offer_angle": "pain_point",
-      "messaging_theme": "load reduction"
+      "messaging_theme": "daily ease"
     },
     {
       "library_id": "833085076297590",
@@ -95,8 +100,9 @@
       "ad_copy": "Livraison garantie pour Noël ! 🤩 Découvrez le Crossbody en velours CABAIA 💫 Sac bandoulière avec pochettes personnalisables, garanti à vie ☀️ Pensé pour les aventuriers du quotidien",
       "ad_copy_text": "Livraison garantie pour Noël ! 🤩 Découvrez le Crossbody en velours CABAIA 💫 Sac bandoulière avec pochettes personnalisables, garanti à vie ☀️ Pensé pour les aventuriers du quotidien",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/593539165_25636090782680990_305085891136940819_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BG_ccraP5U8Q7kNvwFQxOgQ&_nc_oc=AdkpL9yR44rIpJEE_YXvaYSg3fSkMKc5fwiP3iUJwkWGH6qB00l-4rLaDWm2Y_61TEXvP8si1YvcLmGTyErUMvfT&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=xJhWSdMdwKDqhB7FBALAMw&_nc_ss=8&oh=00_AfwwIDB_UOBdS6eY-xQ3RFXUlhc8fAViUXk9AUH_B6WZnw&oe=69B5E44C",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-12-01",
       "end_date": "2025-12-22",
       "run_days": 22,
@@ -111,13 +117,14 @@
       "ad_copy": "J'ai demandé à Jamy comment faire mes affaires pour voyager le plus simplement possible sans valise, je ne m'attendais pas à cette réponse ! Le sac Duffle de @cabaia c'est vraiment le shit code ! Tout rentre dedans !",
       "ad_copy_text": "J'ai demandé à Jamy comment faire mes affaires pour voyager le plus simplement possible sans valise, je ne m'attendais pas à cette réponse ! Le sac Duffle de @cabaia c'est vraiment le shit code ! Tout rentre dedans !",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/641675487_1471449871348418_7124899428739974669_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EETQvybCz4QQ7kNvwFlXrL3&_nc_oc=AdmlrJfKXegKjbIjnUvIc3PyY369xBL9EpWzxPfiq7Zug7inD3fHk0ICsxH8WbelxdPqdA_RGjro_Eq0hi7SSGLP&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=xJhWSdMdwKDqhB7FBALAMw&_nc_ss=8&oh=00_Afw1_zPAaKFG7c2FCQ6z6nxU6Wot6qZFZIPs790knigecw&oe=69B5D764",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-11-25",
       "end_date": "2026-02-26",
       "run_days": 94,
       "offer_angle": "social_proof",
-      "messaging_theme": "testimonial travel"
+      "messaging_theme": "testimonial"
     },
     {
       "library_id": "3825951704316954",
@@ -127,13 +134,14 @@
       "ad_copy": "🍁 La collection qui vous aide à vous remettre dans le quotidien en douceur. 🌅 Nouvelles couleurs cocooning, motifs floraux et une matière phare : le velours côtelé. 😍 Ça a (aussi) du bon le mois de septembre, promis !",
       "ad_copy_text": "🍁 La collection qui vous aide à vous remettre dans le quotidien en douceur. 🌅 Nouvelles couleurs cocooning, motifs floraux et une matière phare : le velours côtelé. 😍 Ça a (aussi) du bon le mois de septembre, promis !",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/546179957_1298503535621880_599639354951997196_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eE9EuFT2s9UQ7kNvwEOsZEj&_nc_oc=Adl7lydGkIdAUS7kaQyOahAmbicBDUb44fM3cm6pun0waeUuoDpzUzMI_WYq86xGuGFYf9J3L4mtWuNNt5oW3Zms&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=xJhWSdMdwKDqhB7FBALAMw&_nc_ss=8&oh=00_Afzfe-mrMt-pWKSkkUabgyb1pEru2C6gA6-IutkTXosyOw&oe=69B5E006",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-10-08",
       "end_date": "2025-12-31",
       "run_days": 85,
-      "offer_angle": "aspirational",
-      "messaging_theme": "seasonal comfort"
+      "offer_angle": null,
+      "messaging_theme": null
     },
     {
       "library_id": "4113347415598975",
@@ -143,13 +151,14 @@
       "ad_copy": "😍 Le Crossbody, désormais disponible en taille S et L. 🙌 Parfaits pour pimper toutes vos vies, de la plus mini à la plus maxi. 👜 Lequel embarquez-vous pour votre prochaine aventure ?",
       "ad_copy_text": "😍 Le Crossbody, désormais disponible en taille S et L. 🙌 Parfaits pour pimper toutes vos vies, de la plus mini à la plus maxi. 👜 Lequel embarquez-vous pour votre prochaine aventure ?",
       "format": "video",
+      "thumbnail_url": "",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-10-08",
       "end_date": "2025-12-11",
       "run_days": 65,
       "offer_angle": "aspirational",
-      "messaging_theme": "personal adventure"
+      "messaging_theme": "lifestyle"
     },
     {
       "library_id": "1391902018966748",
@@ -159,13 +168,14 @@
       "ad_copy": "🤩 Découvrez le Crossbody CABAIA 💫 Sac bandoulière avec pochettes personnalisables, garanti à vie ☀️ Pensé pour les aventuriers du quotidien",
       "ad_copy_text": "🤩 Découvrez le Crossbody CABAIA 💫 Sac bandoulière avec pochettes personnalisables, garanti à vie ☀️ Pensé pour les aventuriers du quotidien",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/566205356_1558912638884000_7726638645866313837_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OnPrhY1XfHMQ7kNvwEtLwYh&_nc_oc=AdmRHaVZ3rkQCzJe5XqtQDSMAqwiPBtLmLiCiIm5hPY2olHMS2kTmZERKAuq9IvcLKg2W1B-jN2G183tihktiq5L&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=xJhWSdMdwKDqhB7FBALAMw&_nc_ss=8&oh=00_Afx-O0mJ2DYp6X_FM0Y2O1iMNMvXf2X1zl9yqkamIwyQeQ&oe=69B5EA7A",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-10-15",
       "end_date": "2026-01-04",
       "run_days": 82,
-      "offer_angle": "authority",
-      "messaging_theme": "customization lifetime"
+      "offer_angle": "aspirational",
+      "messaging_theme": "adventure"
     },
     {
       "library_id": "1021503493379751",
@@ -175,13 +185,14 @@
       "ad_copy": "🎒 Découvrez le sac à dos Adventurer : parfait pour la ville ou vos escapades en pleine nature ! 🔍 Accès facile avec son ouverture large et protection optimale pour votre ordinateur. 🌈 Changez de look en quelques secondes grâce aux pochettes interchangeables !er",
       "ad_copy_text": "🎒 Découvrez le sac à dos Adventurer : parfait pour la ville ou vos escapades en pleine nature ! 🔍 Accès facile avec son ouverture large et protection optimale pour votre ordinateur. 🌈 Changez de look en quelques secondes grâce aux pochettes interchangeables !er",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/492543653_1238672347973429_2313366437183695103_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JttQmcFCDtIQ7kNvwEA6mt4&_nc_oc=AdlXRS8UwLesK4lrIQSTJ9zGLPjf27h9r_QbkBitvr26D_L3EQhT0ApYTX855X3hymS2CZBaFthZPiY4xv5VbnQN&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=xJhWSdMdwKDqhB7FBALAMw&_nc_ss=8&oh=00_Afw193nfhSsadv-KN8y8u6pIuJKVt_l-iBxP80JR-3E96w&oe=69B5EB0B",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-05-01",
       "end_date": "2025-07-22",
       "run_days": 83,
       "offer_angle": "pain_point",
-      "messaging_theme": "versatile convenience"
+      "messaging_theme": "versatility"
     },
     {
       "library_id": "2323880984702312",
@@ -191,13 +202,14 @@
       "ad_copy": "Vous aussi vous avez envie de matcher à la couleur de l’année 2026, Cloud Dancer ? 🤍",
       "ad_copy_text": "Vous aussi vous avez envie de matcher à la couleur de l’année 2026, Cloud Dancer ? 🤍",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/615335255_868071262812985_4470761796839261133_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zmXNaivl3pYQ7kNvwGzk5Rs&_nc_oc=AdncMsNNYKNzS2OssFB6Z7Vpk-ZmEKnKpGoajWFksIyPR-l89BecsKmJKc_oHpNbogRvIstkn8oNf9d_mAoUBP94&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=xJhWSdMdwKDqhB7FBALAMw&_nc_ss=8&oh=00_AfzbmVlG9HQo5hQ-CDnXccL5502vX8evByhlhEjr3ZKVSw&oe=69B5F496",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2026-01-14",
       "end_date": null,
       "run_days": 56,
       "offer_angle": "aspirational",
-      "messaging_theme": "color trend"
+      "messaging_theme": "trend alignment"
     },
     {
       "library_id": "1422981835577348",
@@ -207,13 +219,14 @@
       "ad_copy": "🎒 Votre journée est déjà assez chargée ! Votre sac ne devrait pas l'être ! 🔍 Accès facile avec son ouverture large et protection optimale pour votre ordinateur. On a déjà pensé à tout, laissez votre cerveau respirer.",
       "ad_copy_text": "🎒 Votre journée est déjà assez chargée ! Votre sac ne devrait pas l'être ! 🔍 Accès facile avec son ouverture large et protection optimale pour votre ordinateur. On a déjà pensé à tout, laissez votre cerveau respirer.",
       "format": "carousel",
+      "thumbnail_url": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/515306606_659082187167066_7837759636360621352_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jUYFa18eGUYQ7kNvwFScA3o&_nc_oc=Adl6W3s9ZAi20XAUac7XGMTj7EdqwKJPT0w-_3dsguCIRLqtLL7IT-r2U5PlozXXn94Al6zOftZjodA64Q-QFETE&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=xJhWSdMdwKDqhB7FBALAMw&_nc_ss=8&oh=00_AfzgbYXymarlP-oVr9ypH3NTVOmMSoNtsao0Vg2dd708yw&oe=69B5D0DD",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-08-01",
       "end_date": "2025-09-09",
       "run_days": 40,
       "offer_angle": "pain_point",
-      "messaging_theme": "load reduction"
+      "messaging_theme": "daily ease"
     },
     {
       "library_id": "665410526191445",
@@ -223,13 +236,14 @@
       "ad_copy": "🌴 Avec cette nouvelle collection, vous allez avoir un avant-goût de vacances. 🎒 Vous sentez le poids de l’hiver vous clouer sous le plaid ? Il est peut-être temps d’enfiler votre nouveau sac à dos et de partir à l'aventure. En plus, avec ses motifs qui sentent bon l’aventure, vous allez avoir envie de sauter, courir, grimper comme jamais ! 🌻 Nouvelle collection Printemps-Été 2025 🌻",
       "ad_copy_text": "🌴 Avec cette nouvelle collection, vous allez avoir un avant-goût de vacances. 🎒 Vous sentez le poids de l’hiver vous clouer sous le plaid ? Il est peut-être temps d’enfiler votre nouveau sac à dos et de partir à l'aventure. En plus, avec ses motifs qui sentent bon l’aventure, vous allez avoir envie de sauter, courir, grimper comme jamais ! 🌻 Nouvelle collection Printemps-Été 2025 🌻",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/480210590_970528301261393_5312043700114896117_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cw-ZIQnFAT8Q7kNvwEbTTDN&_nc_oc=AdmVh8iF5l6z9XcjpAl4cbD1wFdtS8lYcOkJiSRp1G5XruMtFBus3dmecuRh8bEeFbOo_W3Y79weSEHsaZNlED9W&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=xJhWSdMdwKDqhB7FBALAMw&_nc_ss=8&oh=00_AfxxLuKodqbKJbcad8x5E1aPW4iekSaRmXB_GGAUYCWC2A&oe=69B5F78C",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-04-14",
       "end_date": "2025-06-26",
       "run_days": 74,
       "offer_angle": "aspirational",
-      "messaging_theme": "holiday escape"
+      "messaging_theme": "vacation vibe"
     },
     {
       "library_id": "898475009503459",
@@ -239,13 +253,14 @@
       "ad_copy": "🚂 Attention au départ ! Le CABAIA Express va partir ! Trouve ta place et embarque pour un voyage exceptionnel grâce à nos sacs et accessoires !",
       "ad_copy_text": "🚂 Attention au départ ! Le CABAIA Express va partir ! Trouve ta place et embarque pour un voyage exceptionnel grâce à nos sacs et accessoires !",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/583199778_1545804043240776_2902431949271415883_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1z8wNs5WxJQQ7kNvwG1fi1i&_nc_oc=AdktDtHICU3nGzKGL2Bhi12V_cFf0_ZJhnjF75YHB8uW5XlorELltjzk_EVoj4W4qLQesMPo74Vy1eU0YcI-tvcY&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=xJhWSdMdwKDqhB7FBALAMw&_nc_ss=8&oh=00_Afz3o9FRh7WubkSOLw-Pyfy3-q7zmszRIqz3A5iOt_qI1g&oe=69B6047C",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-11-20",
       "end_date": "2025-12-16",
       "run_days": 27,
       "offer_angle": "urgency",
-      "messaging_theme": "limited time event"
+      "messaging_theme": "event excitement"
     },
     {
       "library_id": "1033936425279337",
@@ -255,13 +270,14 @@
       "ad_copy": "🧳 Découvrez nos valises souples ingénieuses. 🚅 Disponibles en 4 tailles pour vous accompagner dans tous vos déplacements ! 🥰 Personnalisables, ultra pratiques et garanties à vie !",
       "ad_copy_text": "🧳 Découvrez nos valises souples ingénieuses. 🚅 Disponibles en 4 tailles pour vous accompagner dans tous vos déplacements ! 🥰 Personnalisables, ultra pratiques et garanties à vie !",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/488014416_1762640977998103_3626008429133557493_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hWElIhYhTCcQ7kNvwGnTZBz&_nc_oc=AdmMhwKL7OPvk93g12ShKAF06HO0T8hNiw-p6CqGV2rIX5m8N35G-EjjtRJcG-bGIa4VKFGggcaFmzeBApHvC8SE&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=xJhWSdMdwKDqhB7FBALAMw&_nc_ss=8&oh=00_AfyyvDpRIPeCrwq6TT_kUl_KUdWACHJQkj0z-AZeIS0swQ&oe=69B5DE53",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-04-23",
       "end_date": "2025-06-25",
       "run_days": 64,
-      "offer_angle": "authority",
-      "messaging_theme": "customization lifetime"
+      "offer_angle": null,
+      "messaging_theme": null
     },
     {
       "library_id": "1482656599538512",
@@ -271,13 +287,14 @@
       "ad_copy": "Les premiers jours de septembre sont toujours un petit challenge, alors cette rentrée, on mise sur du beau, et du doux. On va vous dorloter avec des sacs et des accessoires toujours plus réconfortants. Préparez-vous à la douceur !",
       "ad_copy_text": "Les premiers jours de septembre sont toujours un petit challenge, alors cette rentrée, on mise sur du beau, et du doux. On va vous dorloter avec des sacs et des accessoires toujours plus réconfortants. Préparez-vous à la douceur !",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/547406929_691019947345379_7327961161061529434_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=62UQ8zVioPAQ7kNvwEGRCOB&_nc_oc=AdlILBdKoPKjIC3QLDbI_GNqimCo19PLlPMyV9_sCXfUIl-VJMniuL5jC3Tu1_NMz5Ckrk7B2dk-CBDt2_gSjX6f&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=xJhWSdMdwKDqhB7FBALAMw&_nc_ss=8&oh=00_AfxfsE2nYllRatFovUC2Wy7XXi-3YSz4XLfvgvF8YVqJYg&oe=69B5E1A8",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-09-14",
       "end_date": "2025-10-16",
       "run_days": 33,
       "offer_angle": "aspirational",
-      "messaging_theme": "comfort return"
+      "messaging_theme": "comfort"
     },
     {
       "library_id": "2730931083906050",
@@ -287,13 +304,14 @@
       "ad_copy": "Dernière chance : -30% sur une sélection 😍 Sacs à dos, sacs de voyage, trousses de toilettes... ✨ Profitez de l'offre",
       "ad_copy_text": "Dernière chance : -30% sur une sélection 😍 Sacs à dos, sacs de voyage, trousses de toilettes... ✨ Profitez de l'offre",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/600883848_909447958266091_1411379834072391858_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oQicpv2LRTwQ7kNvwH9vpXh&_nc_oc=Adm3wiJMtf6aoTVDj7hR1FC6ZHA-bKkzMbFVTcAu2ziNfo663umSScbQe_m7U_xWF5zspPUo-9E5nyuOUiNXnHcx&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=xJhWSdMdwKDqhB7FBALAMw&_nc_ss=8&oh=00_AfyqHS74EpCR-v3z0koFbTWYO_g0Fm7lhZ_jh2b89xbLhw&oe=69B5D7AA",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2026-01-01",
       "end_date": "2026-02-05",
       "run_days": 36,
       "offer_angle": "discount",
-      "messaging_theme": "limited time sale"
+      "messaging_theme": "promotion"
     },
     {
       "library_id": "729872639673957",
@@ -303,13 +321,14 @@
       "ad_copy": "🎒 Votre journée est déjà assez chargée ! Votre sac ne devrait pas l'être ! 🔍 Accès facile avec son ouverture large et protection optimale pour votre ordinateur. On a déjà pensé à tout, laissez votre cerveau respirer.",
       "ad_copy_text": "🎒 Votre journée est déjà assez chargée ! Votre sac ne devrait pas l'être ! 🔍 Accès facile avec son ouverture large et protection optimale pour votre ordinateur. On a déjà pensé à tout, laissez votre cerveau respirer.",
       "format": "carousel",
+      "thumbnail_url": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/526123362_741308818648472_5090535749119657511_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wsXqnp4JzoYQ7kNvwFAz5pG&_nc_oc=Adn1PuoiqDIWPJPskvvtd3BcqdXQG3VC1v8n5UpOqKhiU9EpAcbdBu7q1CPSicJNPbyq1P-08wcAl2SnemsLmOXJ&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=xJhWSdMdwKDqhB7FBALAMw&_nc_ss=8&oh=00_AfwXkh39EOBMh4qFvrSrXNEkn_OgVMzmlLLiYf-QdCupJw&oe=69B5EDD8",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-08-01",
       "end_date": "2025-09-04",
       "run_days": 35,
       "offer_angle": "pain_point",
-      "messaging_theme": "load reduction"
+      "messaging_theme": "daily ease"
     },
     {
       "library_id": "25319332617696852",
@@ -319,13 +338,14 @@
       "ad_copy": "Trop fan de ma nouvelle valise @cabaia ✨💙",
       "ad_copy_text": "Trop fan de ma nouvelle valise @cabaia ✨💙",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/644509617_1629128691839186_377512022151855665_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IUMLcsFmRMQQ7kNvwG8AMWG&_nc_oc=AdkMxIk1B1tomBqvEDv7qwJXRDnU7jIipDPt8zo5ScsHqiIeuG7s7LHxKa29uKgGV69-NMxLiz3KAzRWczGqDkCV&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=xJhWSdMdwKDqhB7FBALAMw&_nc_ss=8&oh=00_AfwW0C5XQxU5IUFRhl598i7jdC6RhbOON_rCHKqnAtgzlg&oe=69B60178",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-11-25",
       "end_date": "2026-02-27",
       "run_days": 95,
       "offer_angle": "social_proof",
-      "messaging_theme": "testimonial enthusiast"
+      "messaging_theme": "testimonial"
     },
     {
       "library_id": "1443811593486871",
@@ -335,13 +355,14 @@
       "ad_copy": "🎒 Votre journée est déjà assez chargée ! Votre sac ne devrait pas l'être ! 🔍 Accès facile avec son ouverture large et protection optimale pour votre ordinateur. On a déjà pensé à tout, laissez votre cerveau respirer.",
       "ad_copy_text": "🎒 Votre journée est déjà assez chargée ! Votre sac ne devrait pas l'être ! 🔍 Accès facile avec son ouverture large et protection optimale pour votre ordinateur. On a déjà pensé à tout, laissez votre cerveau respirer.",
       "format": "carousel",
+      "thumbnail_url": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/515306606_659082187167066_7837759636360621352_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jUYFa18eGUYQ7kNvwFScA3o&_nc_oc=Adl6W3s9ZAi20XAUac7XGMTj7EdqwKJPT0w-_3dsguCIRLqtLL7IT-r2U5PlozXXn94Al6zOftZjodA64Q-QFETE&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=xJhWSdMdwKDqhB7FBALAMw&_nc_ss=8&oh=00_AfzgbYXymarlP-oVr9ypH3NTVOmMSoNtsao0Vg2dd708yw&oe=69B5D0DD",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-07-15",
       "end_date": "2025-07-30",
       "run_days": 16,
       "offer_angle": "pain_point",
-      "messaging_theme": "load reduction"
+      "messaging_theme": "daily ease"
     },
     {
       "library_id": "1112121080893682",
@@ -351,13 +372,14 @@
       "ad_copy": "On a la formule magique pour faire briller vos yeux même si le Père Noël est parti. Chaque jour, mettez votre sac CABAIA préféré, et sortez sourire à tous les gens que vous croisez. Vous allez voir, la magie ne va pas tarder à faire effet 💫",
       "ad_copy_text": "On a la formule magique pour faire briller vos yeux même si le Père Noël est parti. Chaque jour, mettez votre sac CABAIA préféré, et sortez sourire à tous les gens que vous croisez. Vous allez voir, la magie ne va pas tarder à faire effet 💫",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/606060644_791603317095710_7438096803975383714_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mhxD7M7KutUQ7kNvwGYipD7&_nc_oc=AdmjhahqlpamTluoEmzVetY2ZX5Dv-rY1mivH_KNffTKlGvAU97rnbJboHnxGYo-2R84vKeuXg4gKGhnf5TUCbGO&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=xJhWSdMdwKDqhB7FBALAMw&_nc_ss=8&oh=00_AfwK6HHQSWS1wCgokfF_TnPKW7HyrYsr3qmJaRq8fmY80A&oe=69B5FB88",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2026-01-03",
       "end_date": null,
       "run_days": 67,
       "offer_angle": "aspirational",
-      "messaging_theme": "daily joy"
+      "messaging_theme": "positive emotion"
     },
     {
       "library_id": "1384824626622381",
@@ -367,8 +389,9 @@
       "ad_copy": "Livraison garantie pour Noël ! 😍Le Tote bag : pour les jours sans sac à dos. 💡4 poches extérieures et 2 poches intérieures. ✨ Grâce à sa fermeture zippée, vos affaires sont en sécurité.",
       "ad_copy_text": "Livraison garantie pour Noël ! 😍Le Tote bag : pour les jours sans sac à dos. 💡4 poches extérieures et 2 poches intérieures. ✨ Grâce à sa fermeture zippée, vos affaires sont en sécurité.",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/592930112_1263283588896041_5676577640978557355_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vAZcZTGp_OAQ7kNvwGmgi5p&_nc_oc=AdlfmTFtVWxdZ7X5xzpTFZLNRzc5Oz2Qvv1wkrMce_d-H_o19Bp4RhDUo0soLHVw3KWWw-MizXbJS2RM6bin5_mN&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=xJhWSdMdwKDqhB7FBALAMw&_nc_ss=8&oh=00_AfyU_T-wGgk0I0pzehjR9o4BmkhaoXMToi__XgPKhF5oiw&oe=69B5F4C0",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-12-01",
       "end_date": "2025-12-22",
       "run_days": 22,
@@ -383,8 +406,9 @@
       "ad_copy": "✨ NOUVEAU : édition limitée Découvrez Lucky Star, notre collection pour les fêtes qui capture la lumière. Des sacs à dos inédits, des accessoires un peu magiques, et des bonnes ondes à revendre. Plus besoin d’attendre Noël pour briller.",
       "ad_copy_text": "✨ NOUVEAU : édition limitée Découvrez Lucky Star, notre collection pour les fêtes qui capture la lumière. Des sacs à dos inédits, des accessoires un peu magiques, et des bonnes ondes à revendre. Plus besoin d’attendre Noël pour briller.",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/575176317_1566592274789057_1832468761684003202_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Okxw1dTVxWEQ7kNvwHJRa__&_nc_oc=Adm8B1i-WIXxePlVJj0Y1VkdyE5y6sXS8UkhsTbTGdT2WI-Q5vkPMazpmqtn73XmfN352yv_EH5bBmHhHJiuxrrZ&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=xJhWSdMdwKDqhB7FBALAMw&_nc_ss=8&oh=00_AfxdUM848fx9pNUfcYVVAX2O1Swf3E6FOfDcMOHAkoGhQQ&oe=69B5EE36",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-11-06",
       "end_date": "2026-02-25",
       "run_days": 112,
@@ -399,13 +423,14 @@
       "ad_copy": "Quand on a appris que @pierreniney tournait son prochain film à côté de nos bureaux, on était obligés de troquer notre costume de Père Noël pour celui de dino, et d’aller rugir sous sa fenêtre ! 🦖 On espère que ses cadeaux lui ont plu...",
       "ad_copy_text": "Quand on a appris que @pierreniney tournait son prochain film à côté de nos bureaux, on était obligés de troquer notre costume de Père Noël pour celui de dino, et d’aller rugir sous sa fenêtre ! 🦖 On espère que ses cadeaux lui ont plu...",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/592408340_2881985105325535_1240441014509702286_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WRF2yT6I0VUQ7kNvwGHnrpm&_nc_oc=AdmKRgmNcQggncGejp52uiaWnFKhqM1mYSbyTf6D0Fmnl1StUnduloCimgfIc422a9dtBx5pbecOCD3-cqYUpkG8&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=xJhWSdMdwKDqhB7FBALAMw&_nc_ss=8&oh=00_AfyjQNRa-Wd78Pzs6LhBbjg07A8jayUGXmR6BtpiAjTOmQ&oe=69B5D55C",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-11-28",
       "end_date": "2025-12-08",
       "run_days": 11,
-      "offer_angle": "social_proof",
-      "messaging_theme": "celebrity interaction"
+      "offer_angle": null,
+      "messaging_theme": null
     },
     {
       "library_id": "745355485158859",
@@ -415,13 +440,14 @@
       "ad_copy": "Qui dit octobre dit plaids, chocolat chaud et soirées bien au coin du feu, alors on vous a préparé des sacs et accessoires aussi cosy qu’un dimanche d’automne.",
       "ad_copy_text": "Qui dit octobre dit plaids, chocolat chaud et soirées bien au coin du feu, alors on vous a préparé des sacs et accessoires aussi cosy qu’un dimanche d’automne.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/559520987_1316530029976111_397433807143787683_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bptUWFjK8SwQ7kNvwHmoHB_&_nc_oc=Adko-IPFt7ko8YCKihntDYHLmRVVDW4jPewLG-oIC6x77ZjYajZ5YTwzfS29qz619lmjOPCk-oM9P9z6c6o_l1Os&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=xJhWSdMdwKDqhB7FBALAMw&_nc_ss=8&oh=00_AfwH-HNL57vD76Qgjz0BBiJZoJquHl1_MgmSctObeTUgjA&oe=69B5D02E",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-10-07",
       "end_date": "2025-11-04",
       "run_days": 29,
       "offer_angle": "aspirational",
-      "messaging_theme": "cosy autumn vibes"
+      "messaging_theme": "cozy lifestyle"
     },
     {
       "library_id": "1232538191898118",
@@ -431,13 +457,14 @@
       "ad_copy": "NOUVEAU : la valise. Et oui, on fait ça aussi. 🚅 Disponibles en 4 tailles pour vous accompagner dans tous vos déplacements ! 🥰 Personnalisables, ultra pratiques et garanties à vie !",
       "ad_copy_text": "NOUVEAU : la valise. Et oui, on fait ça aussi. 🚅 Disponibles en 4 tailles pour vous accompagner dans tous vos déplacements ! 🥰 Personnalisables, ultra pratiques et garanties à vie !",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/502521389_705154161896318_7802970306013482950_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hQQPUPSZ3ZIQ7kNvwGzmdD0&_nc_oc=Adn9FBnv1z-wwex1cRJ7o_ACr-uB_6CO0iLfRf-P0_Z3gZXkAOuht9THMUCP_ySD4LJHuvv4STWqQpa_lOfBBfMx&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=xJhWSdMdwKDqhB7FBALAMw&_nc_ss=8&oh=00_Afy4aIbkDACO1NamACAl2MY-WDlKCIDqE3wCS8oh1DnBWw&oe=69B5D89E",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-05-30",
       "end_date": "2025-07-30",
       "run_days": 62,
       "offer_angle": "authority",
-      "messaging_theme": "product quality"
+      "messaging_theme": "practical durable"
     },
     {
       "library_id": "839203502385519",
@@ -447,13 +474,14 @@
       "ad_copy": "😍 Le Crossbody, désormais disponible en taille S.",
       "ad_copy_text": "😍 Le Crossbody, désormais disponible en taille S.",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/583908823_1380701970307518_8498679154433998099_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CYwnyXDVHg4Q7kNvwFtxWcs&_nc_oc=AdmglNGgIiowIXU09n-8yzN3IPQhDdM22bnZoWVVWXNu_kRHolwT0dc7Ie1Rm3U-e_gbOtlCGTAL93ceVqo5qcu-&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=xJhWSdMdwKDqhB7FBALAMw&_nc_ss=8&oh=00_AfyM3ioTWzki81uBqU3u2XPM-qW_I34O-b80-2B-1Dncww&oe=69B5F342",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-11-17",
       "end_date": "2025-12-14",
       "run_days": 28,
       "offer_angle": "aspirational",
-      "messaging_theme": "product delight"
+      "messaging_theme": "new size"
     },
     {
       "library_id": "684865341205788",
@@ -463,13 +491,14 @@
       "ad_copy": "🧳 Nouveau : la valise souple 4 roues. 🛞 Elle tient debout, roule hyper facilement et avec tous ses compartiments, vous pouvez ranger vos affaires en toute sécurité.",
       "ad_copy_text": "🧳 Nouveau : la valise souple 4 roues. 🛞 Elle tient debout, roule hyper facilement et avec tous ses compartiments, vous pouvez ranger vos affaires en toute sécurité.",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/508465575_1053573836710766_3146791665070317226_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JJLUCLxAbvUQ7kNvwEA8eRs&_nc_oc=Adk50SHgFXoiXoMgwwmNXhbpFp6lTz4QJU8eaWJlrZRVjxi68karVQcAqFPR5Zsyf7N4AmZnGf_LDJyKBUeQ5xlz&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=xJhWSdMdwKDqhB7FBALAMw&_nc_ss=8&oh=00_Afyz4nyB6WeoH6ohJ2JmM_N2odCV5m-c6a0hXX807uPMjw&oe=69B5E692",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-06-17",
       "end_date": "2025-07-31",
       "run_days": 45,
       "offer_angle": "pain_point",
-      "messaging_theme": "convenient travel"
+      "messaging_theme": "easy organization"
     },
     {
       "library_id": "1163519132218236",
@@ -479,13 +508,14 @@
       "ad_copy": "Ça y est, le temps est venu de faire vos bagages pour les week-ends prolongés *danse de la joie* 🕺 Mais, pas question de finir le séjour avec une valise digne du tiroir à Tupperware de votre mère (vous savez, celui où rien n’a de couvercle) 😅 Heureusement, on a tout prévu pour remettre de l’ordre dans le chaos : vanity, trousse de toilette, organisateurs de valise… Bref, les accessoires in-dis-pen-sables pour devenir le boss de l’orga.",
       "ad_copy_text": "Ça y est, le temps est venu de faire vos bagages pour les week-ends prolongés *danse de la joie* 🕺 Mais, pas question de finir le séjour avec une valise digne du tiroir à Tupperware de votre mère (vous savez, celui où rien n’a de couvercle) 😅 Heureusement, on a tout prévu pour remettre de l’ordre dans le chaos : vanity, trousse de toilette, organisateurs de valise… Bref, les accessoires in-dis-pen-sables pour devenir le boss de l’orga.",
       "format": "carousel",
+      "thumbnail_url": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/495571386_2670062579852436_3250544378570424788_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OfkOvD1prSYQ7kNvwEZDEz5&_nc_oc=AdlZ4AQOSDspl7UOjbrDNmCGMPvlwwHN93-rWuSmFQB-Sux-6sQRFTybvtZpK8faqRrbq6x8oATU2c0DlR8HRRcv&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=1o2zrjsOh1cTrt28gEzUqw&_nc_ss=8&oh=00_AfwAmucNcWYldgEH6uaKTmLSzxud1PdZ56BwfT9wV3Ml8Q&oe=69B5EE0E",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-05-06",
       "end_date": "2025-08-05",
       "run_days": 92,
       "offer_angle": "pain_point",
-      "messaging_theme": "organization help"
+      "messaging_theme": "travel organization"
     },
     {
       "library_id": "753418317292639",
@@ -495,8 +525,9 @@
       "ad_copy": "Du bureau à la salle de sport, de l’apéro improvisé à la conquête du monde, il vous faut un complice qui en jette ⚡️ On vous présente le Crossbody L : notre champion toutes catégories, conçu pour celles qui n’ont pas le temps de faire le tri. Votre tablette, votre livre, votre pique-nique improvisé... TOUT rentre. Et le plus beau dans tout ça ? Votre allure reste impeccable.",
       "ad_copy_text": "Du bureau à la salle de sport, de l’apéro improvisé à la conquête du monde, il vous faut un complice qui en jette ⚡️ On vous présente le Crossbody L : notre champion toutes catégories, conçu pour celles qui n’ont pas le temps de faire le tri. Votre tablette, votre livre, votre pique-nique improvisé... TOUT rentre. Et le plus beau dans tout ça ? Votre allure reste impeccable.",
       "format": "carousel",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/535076282_1408892450407492_2585520501052280275_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3IDAOws9gvcQ7kNvwH5Qgom&_nc_oc=AdmJhluM2UbAC5CGxqHqXUN0spkxHMygTzh1KqsFqf0_YBukjJ-zpdYQ9LnMsYmq2gnPng4f7XuoWjPcwSlhSZZ7&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=1o2zrjsOh1cTrt28gEzUqw&_nc_ss=8&oh=00_AfwxPMsOqkbFmskCjhXK0gdFbuGariUrotYY_jp9e85Z2w&oe=69B5E7AA",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-08-19",
       "end_date": "2025-10-17",
       "run_days": 60,
@@ -511,8 +542,9 @@
       "ad_copy": "Une banane, mille aventures ! À la campagne comme à la ville, en pique-nique ou en expo, elle est l’alliée parfaite et complète votre look comme personne. 📸 Content by @eloisetournier",
       "ad_copy_text": "Une banane, mille aventures ! À la campagne comme à la ville, en pique-nique ou en expo, elle est l’alliée parfaite et complète votre look comme personne. 📸 Content by @eloisetournier",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/490732850_9380209478767779_1913056981286099811_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ssciDN-rdQYQ7kNvwEqH0ym&_nc_oc=AdnJzRCJFPJ1G5x1NLty30sg1Fp6j10X-dE9c37rAZbe9AI4rcaT2vnNp02U0BvZQT9nRhj_y8oruseQdEQsBqiI&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=1o2zrjsOh1cTrt28gEzUqw&_nc_ss=8&oh=00_AfywWyVdrvx_336pzZ49q18Pt8c1rKGDeN5DSl5z5sNMbQ&oe=69B5E44F",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-05-09",
       "end_date": "2025-08-05",
       "run_days": 89,
@@ -527,13 +559,14 @@
       "ad_copy": "Dernière chance : -30% sur une nouvelle sélection 😍 Sacs à dos, sacs de voyage, trousses de toilettes...",
       "ad_copy_text": "Dernière chance : -30% sur une nouvelle sélection 😍 Sacs à dos, sacs de voyage, trousses de toilettes...",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/611377630_875868178741627_2844462464394680619_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xGQ_C47SmPoQ7kNvwFQfHj6&_nc_oc=AdnQaYOd2I_Te5H0onXvQimLYr-b0M4yoZKhE89RgxsTOd3izrgohKDiKHiS43KvgCgOWp0k_5uOLZoHR01hI5A8&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=1o2zrjsOh1cTrt28gEzUqw&_nc_ss=8&oh=00_Afy38qsHHlzCIHDRFlVT0QaYDu21rmI4st_GOFT9_l2r6g&oe=69B5EAA4",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2026-01-07",
       "end_date": "2026-02-01",
       "run_days": 26,
       "offer_angle": "discount",
-      "messaging_theme": "limited offer"
+      "messaging_theme": "flash sale"
     },
     {
       "library_id": "792850926666414",
@@ -543,13 +576,14 @@
       "ad_copy": "NOUVEAU : la valise. Et oui, on fait ça aussi. 🚅 Disponibles en 4 tailles pour vous accompagner dans tous vos déplacements ! 🥰 Personnalisables, ultra pratiques et garanties à vie !",
       "ad_copy_text": "NOUVEAU : la valise. Et oui, on fait ça aussi. 🚅 Disponibles en 4 tailles pour vous accompagner dans tous vos déplacements ! 🥰 Personnalisables, ultra pratiques et garanties à vie !",
       "format": "video",
+      "thumbnail_url": "",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-10-08",
       "end_date": "2026-02-01",
       "run_days": 117,
       "offer_angle": "authority",
-      "messaging_theme": "product quality"
+      "messaging_theme": "practical durable"
     },
     {
       "library_id": "1001411455503711",
@@ -559,13 +593,14 @@
       "ad_copy": "😍Le Tote bag : pour les jours sans sac à dos. 💡4 poches extérieures et 2 poches intérieures. ✨ Grâce à sa fermeture zippée, vos affaires sont en sécurité.",
       "ad_copy_text": "😍Le Tote bag : pour les jours sans sac à dos. 💡4 poches extérieures et 2 poches intérieures. ✨ Grâce à sa fermeture zippée, vos affaires sont en sécurité.",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/576891236_2252747198573478_3009204896666436493_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QGSvlZG0AjsQ7kNvwFRKcEl&_nc_oc=AdkHaPp2UxakH-Y4Hv2NLmAZpGVsd2czII8GqbEv5F-gWofR8TfSrRanEuKksc1nV8maJhZiqoI5hVQREU65QTry&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=1o2zrjsOh1cTrt28gEzUqw&_nc_ss=8&oh=00_AfwAL7mqRp1QjHadvEsTMwEem14GimHwf68E3uUYHNZdpA&oe=69B5E722",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-11-04",
       "end_date": "2025-12-02",
       "run_days": 29,
       "offer_angle": "pain_point",
-      "messaging_theme": "security features"
+      "messaging_theme": "secure storage"
     },
     {
       "library_id": "848553117909660",
@@ -575,13 +610,14 @@
       "ad_copy": "😎 Découvrez le sac bandoulière Nano Adventurer ultra pratique",
       "ad_copy_text": "😎 Découvrez le sac bandoulière Nano Adventurer ultra pratique",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/593974694_1522216952336627_2909552505243941045_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JcgVflDm-38Q7kNvwH8sCyK&_nc_oc=Adnvotfr34mv8ykZ4OFaot5RdH94hLlNBCBhkJXcRyM0bdLAiLJZ4d-6vmV7f9s0gu8Z9fCIQ2qQfbySZ7IaYOuQ&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=1o2zrjsOh1cTrt28gEzUqw&_nc_ss=8&oh=00_AfxYFrbhl2FIT2AJRViU_LJItvtBLpUzEAXGIpfSNb2Hug&oe=69B5EB87",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-12-08",
       "end_date": "2026-02-07",
       "run_days": 62,
       "offer_angle": "aspirational",
-      "messaging_theme": "practical style"
+      "messaging_theme": "practical adventure"
     },
     {
       "library_id": "860731239904782",
@@ -591,13 +627,14 @@
       "ad_copy": "🌍 Partez en voyage dans les endroits les plus sauvages de la planète avec notre sac à dos ! Il vous accompagnera peu importe la destination.",
       "ad_copy_text": "🌍 Partez en voyage dans les endroits les plus sauvages de la planète avec notre sac à dos ! Il vous accompagnera peu importe la destination.",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/616462854_1592381331949374_1316922193952026343_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XBlyPVnN_voQ7kNvwFqXU-o&_nc_oc=Adks7CaxQuh74ArOfEfwLG0zrwllkIvCwEJt5bkpnmY0E6djXX7YEq6fmWglM73vcc0vpRqYokry5CHsUQ7jFm96&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=1o2zrjsOh1cTrt28gEzUqw&_nc_ss=8&oh=00_Afw5OgyEIhUnbl_L4yQrwwWKOQDEYZYHGS6lEA2ToPGLYA&oe=69B5D8A9",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2026-01-16",
       "end_date": null,
       "run_days": 54,
       "offer_angle": "aspirational",
-      "messaging_theme": "adventure travel"
+      "messaging_theme": "travel companion"
     },
     {
       "library_id": "1211454640926960",
@@ -607,8 +644,9 @@
       "ad_copy": "Dernière chance : -30% sur une sélection 😍 Sacs à dos, sacs de voyage, trousses de toilettes... ✨ Profitez de l'offre",
       "ad_copy_text": "Dernière chance : -30% sur une sélection 😍 Sacs à dos, sacs de voyage, trousses de toilettes... ✨ Profitez de l'offre",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/608572756_1569086864221446_5337572658501787792_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9UPkRGZljzIQ7kNvwFGJ_FP&_nc_oc=AdlOJcsUDVs-QOKUhCuWjd20eWyeRd0uHaI58d7N-I0dfLPp97jT5zUn1LzkVbyCk66OPkmbU8JZlkaRSo-pr9kV&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=1o2zrjsOh1cTrt28gEzUqw&_nc_ss=8&oh=00_Afyw8djliNeqQY9PClQuf-dNk3GAZ9DLZQctAWzCT3jDCQ&oe=69B5FB25",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2026-01-05",
       "end_date": "2026-02-05",
       "run_days": 32,
@@ -623,13 +661,14 @@
       "ad_copy": "Qui dit octobre dit plaids, chocolat chaud et soirées bien au coin du feu, alors on vous a préparé des sacs et accessoires aussi cosy qu’un dimanche d’automne.",
       "ad_copy_text": "Qui dit octobre dit plaids, chocolat chaud et soirées bien au coin du feu, alors on vous a préparé des sacs et accessoires aussi cosy qu’un dimanche d’automne.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/559520987_1316530029976111_397433807143787683_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bptUWFjK8SwQ7kNvwHmoHB_&_nc_oc=Adko-IPFt7ko8YCKihntDYHLmRVVDW4jPewLG-oIC6x77ZjYajZ5YTwzfS29qz619lmjOPCk-oM9P9z6c6o_l1Os&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=1o2zrjsOh1cTrt28gEzUqw&_nc_ss=8&oh=00_Afyh1nWavnWKBbpCGadwiPB9VaKcsoXSRa0MnWwnee7Q6A&oe=69B5D02E",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-10-31",
       "end_date": "2026-01-31",
       "run_days": 93,
       "offer_angle": "aspirational",
-      "messaging_theme": "cosy autumn vibes"
+      "messaging_theme": "cozy lifestyle"
     },
     {
       "library_id": "680909958110685",
@@ -639,13 +678,14 @@
       "ad_copy": "🚅 Partez en vacances l'esprit léger ✔️ Ouverture grand angle pour voir toutes vos affaires en un seul coup d'oeil 🥰 Peut se porter en bandoulière ou sur le dos",
       "ad_copy_text": "🚅 Partez en vacances l'esprit léger ✔️ Ouverture grand angle pour voir toutes vos affaires en un seul coup d'oeil 🥰 Peut se porter en bandoulière ou sur le dos",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/578430852_2317851238685313_7638317944649663153_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sFsQ9VjGO-IQ7kNvwHFEqf8&_nc_oc=AdkXmvoilhKpBwzFwdDdqvosplak60Ke-0Dbpa_JfHM-2v1g13AMvc5j8T2JuqwyB3GuNln570dzQ_KKvWjZxMOs&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=y3ZwEDR0qgtR-mfiVKOc9w&_nc_ss=8&oh=00_AfzB2TuuVsMrLEiTO4jZ9Ydky_FNOPC_Y5HssaF0tj1mcw&oe=69B5F82C",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-11-07",
       "end_date": "2025-12-03",
       "run_days": 27,
       "offer_angle": "pain_point",
-      "messaging_theme": "travel ease"
+      "messaging_theme": "easy access"
     },
     {
       "library_id": "870767945314230",
@@ -655,13 +695,14 @@
       "ad_copy": "Dernière chance : -30% sur une nouvelle sélection 😍 Sacs à dos, sacs de voyage, trousses de toilettes...",
       "ad_copy_text": "Dernière chance : -30% sur une nouvelle sélection 😍 Sacs à dos, sacs de voyage, trousses de toilettes...",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/609004493_1224565629617245_8593663347972211068_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QbDOvMpbe4cQ7kNvwFAoumb&_nc_oc=Admbca_fG2x_jbUHLQjhiFmc7w8BVD9AQe_EQ3F9l25yu0n_zwG--IwPSs7mJGHZNJODvrXA6qSbWuzTwXptfUMH&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=y3ZwEDR0qgtR-mfiVKOc9w&_nc_ss=8&oh=00_Afzd9gD8LWwhr3XqPwVEqUbp70yvSDWBF9LZmX-qBkszkA&oe=69B5F88B",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2026-01-07",
       "end_date": "2026-02-05",
       "run_days": 30,
       "offer_angle": "discount",
-      "messaging_theme": "limited offer"
+      "messaging_theme": "flash sale"
     },
     {
       "library_id": "1202986411814259",
@@ -671,12 +712,13 @@
       "ad_copy": "😍 Découvrez le Vanity CABAIA ! 🧳 A mi-chemin entre la valise et la trousse de toilette, vous y rangez tout ce qui est essentiel à votre voyage. 👍 Se porte en bandoulière, à la main ou sur la poignée de votre valise",
       "ad_copy_text": "😍 Découvrez le Vanity CABAIA ! 🧳 A mi-chemin entre la valise et la trousse de toilette, vous y rangez tout ce qui est essentiel à votre voyage. 👍 Se porte en bandoulière, à la main ou sur la poignée de votre valise",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/585284601_1919874358569763_1914292712771412907_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Oa-rB88laEkQ7kNvwHCfOJs&_nc_oc=Adm46yVhD-EHL7vMK-3GD45gSHVd72_d2p2xPWXTu0Wz22RIr3V0ws7xgqKPTfrjVIZXJXZsWv2pvvx7NnB4qZ8s&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=y3ZwEDR0qgtR-mfiVKOc9w&_nc_ss=8&oh=00_Afxc8yMvavhETpGOYCG1f_mmTWRNw0z5XgyID-pQ30u-Bg&oe=69B5DA36",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-11-28",
       "end_date": "2026-01-15",
       "run_days": 49,
-      "offer_angle": "aspirational",
+      "offer_angle": "pain_point",
       "messaging_theme": "travel essentials"
     },
     {
@@ -687,13 +729,14 @@
       "ad_copy": "🌴 Avec cette nouvelle collection, vous allez avoir un avant-goût de vacances. 🎒 Vous sentez le poids de l’hiver vous clouer sous le plaid ? Il est peut-être temps d’enfiler votre nouveau sac à dos et de partir à l'aventure. En plus, avec ses motifs qui sentent bon l’aventure, vous allez avoir envie de sauter, courir, grimper comme jamais ! 🌻 Nouvelle collection Printemps-Été 2025 🌻",
       "ad_copy_text": "🌴 Avec cette nouvelle collection, vous allez avoir un avant-goût de vacances. 🎒 Vous sentez le poids de l’hiver vous clouer sous le plaid ? Il est peut-être temps d’enfiler votre nouveau sac à dos et de partir à l'aventure. En plus, avec ses motifs qui sentent bon l’aventure, vous allez avoir envie de sauter, courir, grimper comme jamais ! 🌻 Nouvelle collection Printemps-Été 2025 🌻",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/480210590_970528301261393_5312043700114896117_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cw-ZIQnFAT8Q7kNvwEbTTDN&_nc_oc=AdmVh8iF5l6z9XcjpAl4cbD1wFdtS8lYcOkJiSRp1G5XruMtFBus3dmecuRh8bEeFbOo_W3Y79weSEHsaZNlED9W&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=y3ZwEDR0qgtR-mfiVKOc9w&_nc_ss=8&oh=00_AfzOhYaJGU9oM_OKZxeoQ2BDJzYVP-yZV5WLyVDbX97jdQ&oe=69B5F78C",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-03-19",
       "end_date": "2025-04-14",
       "run_days": 27,
       "offer_angle": "aspirational",
-      "messaging_theme": "vacation spirit"
+      "messaging_theme": "adventure spirit"
     },
     {
       "library_id": "2723897494625554",
@@ -703,13 +746,14 @@
       "ad_copy": "😍Le Tote bag : pour les jours sans sac à dos. 💡4 poches extérieures et 2 poches intérieures. ✨ Grâce à sa fermeture zippée, vos affaires sont en sécurité.",
       "ad_copy_text": "😍Le Tote bag : pour les jours sans sac à dos. 💡4 poches extérieures et 2 poches intérieures. ✨ Grâce à sa fermeture zippée, vos affaires sont en sécurité.",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/644523924_1609674580345083_4999922261633530329_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WPTKq2_kjY8Q7kNvwGmFBEb&_nc_oc=Adlzm_JEF3eLPeEJ8uwrWnyKXy8tqL47uSclYS3Y58-pWj2-Txs9O5kU3CetsOX28d6uqjog-DID2C8Zl_Mk-2xf&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=y3ZwEDR0qgtR-mfiVKOc9w&_nc_ss=8&oh=00_AfxqiCKgwqIDK83YpA090Jg_gfsw3TQm-OUVDmJ0fg2SZg&oe=69B5F19A",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-12-21",
       "end_date": "2026-02-27",
       "run_days": 69,
       "offer_angle": "pain_point",
-      "messaging_theme": "security features"
+      "messaging_theme": "secure storage"
     },
     {
       "library_id": "1828153577836420",
@@ -719,13 +763,14 @@
       "ad_copy": "Livraison garantie pour Noël ! 🤩 Découvrez le Crossbody CABAIA 💫 Sac bandoulière avec pochettes personnalisables, garanti à vie ☀️ Pensé pour les aventuriers du quotidien",
       "ad_copy_text": "Livraison garantie pour Noël ! 🤩 Découvrez le Crossbody CABAIA 💫 Sac bandoulière avec pochettes personnalisables, garanti à vie ☀️ Pensé pour les aventuriers du quotidien",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/594000968_2458026547947227_1160618490794225799_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ou-sxrf_wlkQ7kNvwHtHB0w&_nc_oc=AdmV_OBv7ux9erHXWkc4lbtVy0vIpcguFZFGcRv393wo_4H8HLjLvY-ZVC0JzMtRNBQJXLkpqAHd1nt0YEUTdOTV&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=y3ZwEDR0qgtR-mfiVKOc9w&_nc_ss=8&oh=00_Afx3lObKcOwyVowB9W8B_gMpX83GKXsiw3wImVoYC_1Z9w&oe=69B5FB7E",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-12-01",
       "end_date": "2025-12-21",
       "run_days": 21,
-      "offer_angle": "urgency",
-      "messaging_theme": "holiday delivery"
+      "offer_angle": "authority",
+      "messaging_theme": "holiday guarantee"
     },
     {
       "library_id": "4006499122973827",
@@ -735,13 +780,14 @@
       "ad_copy": "🤩 Découvrez le Crossbody CABAIA 💫 Sac bandoulière avec pochettes personnalisables, garanti à vie ☀️ Pensé pour les aventuriers du quotidien",
       "ad_copy_text": "🤩 Découvrez le Crossbody CABAIA 💫 Sac bandoulière avec pochettes personnalisables, garanti à vie ☀️ Pensé pour les aventuriers du quotidien",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/586561841_825107366937791_3597771245165604649_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QCHprvkXXjoQ7kNvwFwQ_Uq&_nc_oc=AdlN_OqxSUtg8eTqNbnPv8HL_3xuV5J5J-_nT9UyyAle3IfUmVxFdD7wof8EhkbIURm_Or3Xw59YTNuGF_fRdKJa&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=y3ZwEDR0qgtR-mfiVKOc9w&_nc_ss=8&oh=00_AfwFCvWSyOYd5a_KkMqCZ7dlEs-IhLBqJjwgbgsgAYzQaA&oe=69B603FE",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-11-21",
       "end_date": "2026-02-08",
       "run_days": 80,
-      "offer_angle": "aspirational",
-      "messaging_theme": "adventure lifestyle"
+      "offer_angle": "authority",
+      "messaging_theme": "personalizable guarantee"
     },
     {
       "library_id": "482766284449417",
@@ -751,8 +797,9 @@
       "ad_copy": "CONCOURS | Tentez de gagner 1 sac à dos CABAIA Adventurer M ! Inscrivez-vous à notre tirage au sort en cliquant sur le lien ci-dessous ! 1 gagnant par semaine 🥳",
       "ad_copy_text": "CONCOURS | Tentez de gagner 1 sac à dos CABAIA Adventurer M ! Inscrivez-vous à notre tirage au sort en cliquant sur le lien ci-dessous ! 1 gagnant par semaine 🥳",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/451804591_1003767461039995_2580945147451971933_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0aG8wLDIJbAQ7kNvwExBZGp&_nc_oc=AdlibO-sHY-tcEHx5lVgW8dqioqpzvyu4Olqt3QO_mxJ40A6P8FCh2uV8AHSIRyygYV9vTxopQv0NMeLW15Jo7oq&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=y3ZwEDR0qgtR-mfiVKOc9w&_nc_ss=8&oh=00_AfynQoP4EYeJifCJAC1kWaZbThI6jTUOkI7syi9NQB5SiQ&oe=69B5FCEF",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2024-07-22",
       "end_date": "2025-09-25",
       "run_days": 431,
@@ -767,13 +814,14 @@
       "ad_copy": "✨ NOUVEAU : édition limitée Découvrez Lucky Star, notre collection pour les fêtes qui capture la lumière. Ce sac bandoulière, aussi canon que pratique, est devenu en quelques mois un de vos produits préférés. Avec sa version argentée inédite, ce n’est pas prêt de s’arrêter.",
       "ad_copy_text": "✨ NOUVEAU : édition limitée Découvrez Lucky Star, notre collection pour les fêtes qui capture la lumière. Ce sac bandoulière, aussi canon que pratique, est devenu en quelques mois un de vos produits préférés. Avec sa version argentée inédite, ce n’est pas prêt de s’arrêter.",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/574985024_1488071312250889_1889743222024624639_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TCxaqonWYFoQ7kNvwGaVXCh&_nc_oc=AdkRkL6kUF7eOiEGjKkN2_Wy3V3TsYpco4XV_l1m31fkP6raHZ0B-dEeDwkLRiowb0Ew-3GkNttuS4Y7UehhugGO&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=y3ZwEDR0qgtR-mfiVKOc9w&_nc_ss=8&oh=00_AfwgoexfIi-pyXDB-QeGqFedvAv4HpOAi7VsgUf0ryVZ4Q&oe=69B5D018",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-11-05",
       "end_date": "2025-12-09",
       "run_days": 35,
-      "offer_angle": "aspirational",
-      "messaging_theme": "holiday edition"
+      "offer_angle": "social_proof",
+      "messaging_theme": "limited edition"
     },
     {
       "library_id": "1380925496935323",
@@ -783,13 +831,14 @@
       "ad_copy": "🍱 Une glacière 2.0 pour vous accompagner avec style dans toutes vos pauses miam-miam. ❄️ ♨️ Merveilleusement isolant (pour garder votre festin au chaud ou au frais) et superbement étanche.",
       "ad_copy_text": "🍱 Une glacière 2.0 pour vous accompagner avec style dans toutes vos pauses miam-miam. ❄️ ♨️ Merveilleusement isolant (pour garder votre festin au chaud ou au frais) et superbement étanche.",
       "format": "carousel",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/559623017_1358116969356106_3140124880740967987_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nlbSE27dcagQ7kNvwEDx39-&_nc_oc=AdkLrsguz-WnbZsCsenUDKMTqIBkmDAywE-00IMPhqzkuiZFNcthDJtIAv5AG92mlRe54QL42xZR_I2I1wfMvG7w&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=y3ZwEDR0qgtR-mfiVKOc9w&_nc_ss=8&oh=00_AfzoXWZj4d68pLIsDzAYrWKwlCofbpAlCy54QvazRmPztg&oe=69B5EAFF",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-10-08",
       "end_date": "2025-12-20",
       "run_days": 74,
       "offer_angle": "pain_point",
-      "messaging_theme": "temperature control"
+      "messaging_theme": "insulated cooler"
     },
     {
       "library_id": "1522548635637250",
@@ -799,13 +848,14 @@
       "ad_copy": "Celui qui m’accompagne lors de mes déplacements ✈️💻🎒 @cabaia - publicité - Tic tac tic tac ⏰ dans une dizaine de jours, direction la France pour les fêtes de fin d’année 🎄 Tête à tête avec mon grand pendant les 10 prochains jours avant le départ en avion pour retrouver mes 2 autres hommes 🥰 Qui compte les dodos avant les vacances ? 🙋🏻‍♀️ #collaborationcommerciale #creatricedecontenu #créatriceugcfrance #créatriceugc",
       "ad_copy_text": "Celui qui m’accompagne lors de mes déplacements ✈️💻🎒 @cabaia - publicité - Tic tac tic tac ⏰ dans une dizaine de jours, direction la France pour les fêtes de fin d’année 🎄 Tête à tête avec mon grand pendant les 10 prochains jours avant le départ en avion pour retrouver mes 2 autres hommes 🥰 Qui compte les dodos avant les vacances ? 🙋🏻‍♀️ #collaborationcommerciale #creatricedecontenu #créatriceugcfrance #créatriceugc",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/596946788_1794170337908380_3193973450260475636_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n57sr3IL8kgQ7kNvwFcb0mf&_nc_oc=AdljsgcDMQxNpuwLGeHGVBJy2idHgVZobtgGZws6oXzUAlaqI8cj0jzTekm2r4FRaooIgYLlG68iWVbFlv1pLEOv&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=s894fUJfksJseMb6ZSOMMw&_nc_ss=8&oh=00_Afxs9SBoY_hom_Co7H-VsZgqryecAWAan6O4h1b0rtI7Wg&oe=69B5FCE6",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-12-11",
       "end_date": "2026-01-23",
       "run_days": 44,
       "offer_angle": "social_proof",
-      "messaging_theme": "ugc lifestyle"
+      "messaging_theme": "ugc collaboration"
     },
     {
       "library_id": "1320418592871687",
@@ -815,8 +865,9 @@
       "ad_copy": "☀ L’été s’infuse dans nos sacs ! Avec son imprimé vichy et ses petits citrons, FARO est l’un des best-sellers de la saison. Frais, acidulé, joyeux : le combo parfait pour vous suivre partout cet été, du marché du dimanche matin aux pique-niques au soleil. Le plus ? Il se décline sous toutes les formes (ou presque) : Adventurer, pochette, Nano bag, trousse de toilette... 🍋",
       "ad_copy_text": "☀ L’été s’infuse dans nos sacs ! Avec son imprimé vichy et ses petits citrons, FARO est l’un des best-sellers de la saison. Frais, acidulé, joyeux : le combo parfait pour vous suivre partout cet été, du marché du dimanche matin aux pique-niques au soleil. Le plus ? Il se décline sous toutes les formes (ou presque) : Adventurer, pochette, Nano bag, trousse de toilette... 🍋",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/511116815_994049849474823_5472149163791066233_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uBwjFFHD7GIQ7kNvwEkwpmp&_nc_oc=AdksKQTB-NjEIXe-cQ5Rb7-YCeifuYsxEmS608vMJn1WVnHAxch9RefBlq0-j-FlsUg43rJ7X8YEq_zy08BDP4ej&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=s894fUJfksJseMb6ZSOMMw&_nc_ss=8&oh=00_AfylOjenhPgNqgrWRZ4_2g2gjFqozwasw_1TbTnXuq4piw&oe=69B5F2D5",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-06-24",
       "end_date": "2025-07-30",
       "run_days": 37,
@@ -831,8 +882,9 @@
       "ad_copy": "Qui dit octobre dit plaids, chocolat chaud et soirées bien au coin du feu, alors on vous a préparé des sacs et accessoires aussi cosy qu’un dimanche d’automne.",
       "ad_copy_text": "Qui dit octobre dit plaids, chocolat chaud et soirées bien au coin du feu, alors on vous a préparé des sacs et accessoires aussi cosy qu’un dimanche d’automne.",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/557782429_799657632908837_7961989809653910838_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AA_yeRbPUQQQ7kNvwFEAtbW&_nc_oc=Admwvg_Tf_tGNqa-TysllRmzpPR0bZ_P_y5_drbuPz-qUCF6-0s47ieF_JBwuSNQPFlUSXLhAgn2fnYwesF6kpSV&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=s894fUJfksJseMb6ZSOMMw&_nc_ss=8&oh=00_AfyfvhhCQDkKvpiCg_83AHnoqSw-TubZYcJEUBxFL8A0ow&oe=69B5F03F",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-10-07",
       "end_date": "2025-11-04",
       "run_days": 29,
@@ -847,13 +899,14 @@
       "ad_copy": "Dernière chance : -30% sur une nouvelle sélection 😍 Sacs à dos, sacs de voyage, trousses de toilettes...",
       "ad_copy_text": "Dernière chance : -30% sur une nouvelle sélection 😍 Sacs à dos, sacs de voyage, trousses de toilettes...",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/610905065_1396996882207833_5808094884166124333_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sFinTJNcz90Q7kNvwGrndmG&_nc_oc=AdnQaA0B7033fqcLfXgrP3i73r2jf35fKtMw2R0eJyHdq_r7DVuU_a28H8G74mCuA_h4jKD1Jv_oHSNvJptl3vNF&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=s894fUJfksJseMb6ZSOMMw&_nc_ss=8&oh=00_Afy7P0lcVtvVYQKx5dmJGWr10UDsd4gekciYa7-9Nsk08g&oe=69B5CD35",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2026-01-06",
       "end_date": "2026-02-05",
       "run_days": 31,
       "offer_angle": "discount",
-      "messaging_theme": "limited time sale"
+      "messaging_theme": "limited offer"
     },
     {
       "library_id": "1827578447866905",
@@ -863,13 +916,14 @@
       "ad_copy": "Nouvelle sélection : Dernière chance à -30% 😍 Sacs à dos, sacs bandoulière, bonnets ... ✨ Profitez de l'offre",
       "ad_copy_text": "Nouvelle sélection : Dernière chance à -30% 😍 Sacs à dos, sacs bandoulière, bonnets ... ✨ Profitez de l'offre",
       "format": "image",
+      "thumbnail_url": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/584950667_695439023286071_5749474095028093885_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4EUQEFg-nugQ7kNvwF1qS20&_nc_oc=AdnS4yhKfD2ioYZJP5qfHFaiRFdeBWjOlPhqDLa2H48y2BACOtRKKcfE_IkbjMSFHhMDOc9aJLWCwzQc-PdYzet4&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=s894fUJfksJseMb6ZSOMMw&_nc_ss=8&oh=00_AfxKyiq6dn-EX1bgC4k6Nnpjozxw8qLrqRGbVzt6baPFOA&oe=69B5D346",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-11-21",
       "end_date": "2025-12-03",
       "run_days": 13,
       "offer_angle": "discount",
-      "messaging_theme": "last chance discount"
+      "messaging_theme": "final sale"
     },
     {
       "library_id": "3315027728662433",
@@ -879,8 +933,9 @@
       "ad_copy": "La collaboration de mes rêves @cabaia 🤎 #collabugc #ugc #ugccontentcreator #cabaia",
       "ad_copy_text": "La collaboration de mes rêves @cabaia 🤎 #collabugc #ugc #ugccontentcreator #cabaia",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/643319501_1631993684885660_3001161025524916679_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dLKJdDDnmzYQ7kNvwFJCm-u&_nc_oc=Adkd4qlDqTnK-OgwDOqvYMwefVifocDOieq2BuGRWQaKEeMVQuJ-lhts4BnHPr3NyyfoKIW4oAbcGnJcL45TB5Gy&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=s894fUJfksJseMb6ZSOMMw&_nc_ss=8&oh=00_Afz9P_lzZ-jBSwyhO2Fu-Ghj_YfXn3CQqTYO3ur6t1r7XA&oe=69B5F412",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2026-01-26",
       "end_date": "2026-02-27",
       "run_days": 33,
@@ -895,8 +950,9 @@
       "ad_copy": "🌸 NOUVELLE COLLECTION 🌸 Découvrez notre nouvelle collection de sacs, bagages et accessoires, prêts à vous suivre dans toutes vos aventures : un pique-nique improvisé, une virée en vélo, un train pour nulle part, ou juste un rayon de soleil dans le jardin… parce que l’aventure commence souvent à deux pas de chez soi ! #cabaia #amazingeveryday #nouvellecollection",
       "ad_copy_text": "🌸 NOUVELLE COLLECTION 🌸 Découvrez notre nouvelle collection de sacs, bagages et accessoires, prêts à vous suivre dans toutes vos aventures : un pique-nique improvisé, une virée en vélo, un train pour nulle part, ou juste un rayon de soleil dans le jardin… parce que l’aventure commence souvent à deux pas de chez soi ! #cabaia #amazingeveryday #nouvellecollection",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/616283116_2384376732022999_5245234380982985444_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CzF_pVuRdgoQ7kNvwHmemiR&_nc_oc=AdnhIkaCyxtb1l0G7Z1vFsx6uUuFiqdeOou1tbhX2bay0i_frYT4l7t0f0OaLIApgbTEnbERGhIj8_1QYRdpkMau&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=s894fUJfksJseMb6ZSOMMw&_nc_ss=8&oh=00_AfywT6rndu03e_0evn-C-rQ6hQDeFSaU6MUC8Q4HNEIt4w&oe=69B5F5EC",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2026-01-14",
       "end_date": null,
       "run_days": 56,
@@ -911,8 +967,9 @@
       "ad_copy": "Vous avez parlé, on vous a écouté ! 📱 Taille augmentée",
       "ad_copy_text": "Vous avez parlé, on vous a écouté ! 📱 Taille augmentée",
       "format": "video",
+      "thumbnail_url": "",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-10-08",
       "end_date": "2025-12-06",
       "run_days": 60,
@@ -927,13 +984,14 @@
       "ad_copy": "🤩 Découvrez le Crossbody en velours CABAIA 💫 Sac bandoulière avec pochettes personnalisables, garanti à vie ☀️ Pensé pour les aventuriers du quotidien",
       "ad_copy_text": "🤩 Découvrez le Crossbody en velours CABAIA 💫 Sac bandoulière avec pochettes personnalisables, garanti à vie ☀️ Pensé pour les aventuriers du quotidien",
       "format": "video",
+      "thumbnail_url": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/587601177_1978094866096689_4162752655691694694_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-KTsnjV1WV0Q7kNvwH7vzg3&_nc_oc=Adk2KsRf6OGMWz0d1O9ik-lkqy-eAm-kKJ79YlkFpQhY2Lc9hMHwwqNuBNvrAwGFUox3R1v1tK20W9uasWsk9i3e&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=s894fUJfksJseMb6ZSOMMw&_nc_ss=8&oh=00_AfxQqTZIm_pePmu7tKG5uZaN_yEVYJ6GzlwsqHcSSKwIUw&oe=69B5D751",
       "competitor": "Cabaïa",
-      "scraped_at": "2026-03-10T10:55:52.124Z",
+      "scraped_at": "2026-03-10T13:02:10.422Z",
       "start_date": "2025-11-21",
       "end_date": "2025-12-02",
       "run_days": 12,
       "offer_angle": "authority",
-      "messaging_theme": "product quality guarantee"
+      "messaging_theme": "quality guarantee"
     }
   ]
 }

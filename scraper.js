@@ -405,7 +405,22 @@ async function extractAds(page, competitorName, scrapedAt, scrapedDate) {
       const adCopy = sponsoredIndex >= 0 ? extractCopy(lines, sponsoredIndex) : "";
       const videoCount = card.querySelectorAll("video").length;
       const imageCount = card.querySelectorAll("img").length;
-      const thumbnailNode = card.querySelector("img[src], video[poster]");
+      // Skip advertiser profile pic (small avatar) — grab first large creative image or video
+      const videoNode = card.querySelector("video[poster]");
+      const allImgs = Array.from(card.querySelectorAll("img[src]"));
+      // Profile pics are small circles (width <= 60). Skip them and grab the first real creative img.
+      const creativeImg = allImgs.find(img => {
+        const w = img.naturalWidth || img.width || parseInt(img.getAttribute("width") || "0");
+        const src = img.getAttribute("src") || "";
+        // Skip data URIs, tiny images, and known profile pic patterns
+        if (src.startsWith("data:")) return false;
+        if (w > 0 && w <= 60) return false;
+        // Skip images that look like avatars (small square in profile pic containers)
+        const parent = img.closest('[style*="border-radius: 50%"], [style*="border-radius:50%"]');
+        if (parent) return false;
+        return true;
+      });
+      const thumbnailNode = videoNode || creativeImg || null;
       const thumbnailUrl = thumbnailNode
         ? thumbnailNode.tagName.toLowerCase() === "video"
           ? (thumbnailNode.getAttribute("poster") || "").trim()
