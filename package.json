@@ -1,0 +1,17 @@
+{
+  "name": "zede-competitor-ads-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Competitor ad intelligence system for ZEDE Paris",
+  "type": "commonjs",
+  "scripts": {
+    "scrape": "node scraper.js",
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "openai": "^6.27.0",
+    "playwright": "^1.52.0"
+  }
+}
